@@ -2,6 +2,8 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
@@ -11,7 +13,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
   background-color: #ffa800;
   color: white;
   padding: 10px 20px;
-  border: none;
+  border-color: grey;
+  border-radius: 10% 30% 30% 50%;
   cursor: pointer;
   opacity: 0.8;
   position: fixed;
@@ -27,6 +30,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   bottom: 0;
   right: 15px;
   border: 3px solid #ffa800;
+  border-radius: 10% 20% 10% 10%;
   z-index: 9;
 }
 
@@ -35,10 +39,12 @@ body {font-family: Arial, Helvetica, sans-serif;}
   max-width: 300px;
   padding: 10px;
   background-color: white;
+  border-radius: 10% 20% 10% 10%;
 }
 
 /* Full-width textarea */
 .form-container textarea {
+  border-radius: 10% 10% 10% 10%;
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
@@ -81,13 +87,13 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <button class="open-button" onclick="openForm()">Suggest</button>
 
 <div class="chat-popup" id="myForm">
-  <form action="/action_page.php" class="form-container">
+  <form action="" class="form-container">
     <h1></h1>
 
     <label for="msg"><b>Message</b></label>
     <textarea placeholder="Type message.." name="msg" required></textarea>
 
-    <button type="submit" class="btn">Send</button>
+    <button type="submit" class="btn btn-success">Send</button>
     <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
   </form>
 </div>

@@ -31,12 +31,21 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 				<div class="col-lg-6 features_col">
 					<div class="features_content">
 						<div class="section_title_container">
-							<div class="section_subtitle">take a look at our</div>
-							<div class="section_title">Why buy and sell Stocks with us?</div>
+							<div class="section_title">Why trust Yaba-In?</div>
 							<div class="section_text">
-								<p>Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultricies pellentesque mauris a elementum. Cras eu ornare turpis. Morbi id maximus lorem. Duis leo sapien, accumsan ves tibulum massa sit amet, sollicitudin euismod libero. Aliquam mollis ipsum eget nulla pulvinar, a fringilla urna consectetur.</p>
+								<p>Yaba-In is a Cameroonian engineering company whose growth engine is the development of expertise in software engineering.
+									The competence of our teams and owl-carouselr consultants on technologies according to international standards has earned us a first-rate level of partnership with companies that trust us by asking us to manage their projects for almost three years.
+									We are based in the city of Bangangté, West Cameroon.</p>
+
+								<p>For many years, we have developed a diversified experience in the fields of management, audit and assistance in the organization, analysis, design and development of software solutions.</p>
+
+								<p>Our core values:
+ 
+									Expertise / Experience combined with customer service;
+									The satisfaction of our customers;
+									The culture of service and innovation;
+									Advice / local support.</p>
 							</div>
-							<div class="link_button features_button"><a href="#">read more</a></div>
 						</div>
 					</div>
 				</div>
@@ -52,67 +61,9 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 
 	<!-- Info -->
 
-	<div class="info">
-		<div class="info_background parallax-window" data-parallax="scroll" data-image-src="images/about_info.jpg" data-speed="0.8"></div>
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title_container">
-						<div class="section_subtitle">take a look at our</div>
-						<div class="section_title">Why buy and sell Stocks with us?</div>
-						<div class="info_text">Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. Fusce vel lorem libero. Integer ex mi, facilisis sed nisi ut, vestibulum ultrices nulla.</div>
-					</div>
-				</div>
-			</div>
-			<div class="row milestones_container">
-
-				<!-- Milestone -->
-				<div class="col-lg-3 milestone_col">
-					<div class="milestone">
-						<div class="milestone_counter" data-end-value="12">0</div>
-						<div class="milestone_content">
-							<div class="milestone_title">years of experience</div>
-							<div class="milestone_subtitle">Actus tellus, eu tristique</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-3 milestone_col">
-					<div class="milestone">
-						<div class="milestone_counter" data-end-value="34">0</div>
-						<div class="milestone_content">
-							<div class="milestone_title">top advisors</div>
-							<div class="milestone_subtitle">Ctus tellus, eu tristique</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-3 milestone_col">
-					<div class="milestone">
-						<div class="milestone_counter" data-end-value="6" data-sign-after="k">0</div>
-						<div class="milestone_content">
-							<div class="milestone_title">happy clients</div>
-							<div class="milestone_subtitle">Tristique magna phar</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-3 milestone_col">
-					<div class="milestone">
-						<div class="milestone_counter" data-end-value="68">0</div>
-						<div class="milestone_content">
-							<div class="milestone_title">new cases</div>
-							<div class="milestone_subtitle">Actus tellus, eu tristique</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
+				<?php
+				include './new/map.php';
+				?>
 
 	<div class="test_faq">
 		<div class="container">
@@ -123,8 +74,8 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 
 					<div class="testimonials">
 						<div class="section_title_container">
-							<div class="section_subtitle">take a look at our</div>
-							<div class="section_title">Clients testimonials</div>
+							<div class="section_subtitle"></div>
+							<div class="section_title">They trusted us</div>
 						</div>
 
 						<div class="test_slider_container">
@@ -133,12 +84,12 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">“Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. Fusce vel lorem libero. Integer ex mi, facilisis sed nisi ut.”</div>
+										<div class="testimonial_text">Groupe SIA is a SARL (limited liability company), with its head office located in Yaoundé, and a secondary head office located in Equatorial Guinea. It’s a company that is close to the big companies of the world. As such, the SIA GROUP is the competence center of the publishers SAGE and TOMATE. To this end, she is responsible for marketing SAGE accounting software.</div>
 										<div class="testimonial_author">
-											<div class="testimonial_image"><img src="images/testimonials.jpg" alt=""></div>
+											<div class="testimonial_image"><img src="images/logosia.png" alt=""></div>
 											<div class="testimonial_content">
-												<div class="testimonial_name"><a href="#">Michael Smith</a></div>
-												<div class="testimonial_title">personal trader</div>
+												<div class="testimonial_name"><a target="_blank" href="http://www.groupesia.com">Groupe SIA</a></div>
+												<div class="testimonial_title">www.groupesia.com</div>
 											</div>
 										</div>
 									</div>
@@ -147,12 +98,12 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">“Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. Fusce vel lorem libero. Integer ex mi, facilisis sed nisi ut.”</div>
+										<div class="testimonial_text">SDK Games Africa, based in South Africa with offices in Cameroon, is dedicated to afro-centric mobiles and social games with the mission of providing the best African Gaming Experience using innovative technologies (Augmented Reality, Virtual Reality and based on African contents (culture, history, tales).</div>
 										<div class="testimonial_author">
-											<div class="testimonial_image"><img src="images/testimonials.jpg" alt=""></div>
+											<div class="testimonial_image"><img src="images/sdkLogo.png" alt=""></div>
 											<div class="testimonial_content">
-												<div class="testimonial_name"><a href="#">Michael Smith</a></div>
-												<div class="testimonial_title">personal trader</div>
+												<div class="testimonial_name"><a target="_blank" href="http://www.sdkgames.com/">SDK Games Africa</a></div>
+												<div class="testimonial_title">www.sdkgames.com</div>
 											</div>
 										</div>
 									</div>
@@ -161,12 +112,12 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">“Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. Fusce vel lorem libero. Integer ex mi, facilisis sed nisi ut.”</div>
+										<div class="testimonial_text">Since its creation, TonkaIn has been the specialist and one of the champions of the development of embedded systems, software engineering and artificial intelligence in Africa.TonkaIn's mission is to give African engineers the means to innovate and be the force behind the new technologies and applications of tomorrow.</div>
 										<div class="testimonial_author">
-											<div class="testimonial_image"><img src="images/testimonials.jpg" alt=""></div>
+											<div class="testimonial_image"><img src="images/tonka-in.jpg" alt=""></div>
 											<div class="testimonial_content">
-												<div class="testimonial_name"><a href="#">Michael Smith</a></div>
-												<div class="testimonial_title">personal trader</div>
+												<div class="testimonial_name"><a target="_blank" href="https://www.tonkain.com/">TonkaIn</a></div>
+												<div class="testimonial_title">www.tonkain.com</div>
 											</div>
 										</div>
 									</div>
@@ -175,12 +126,12 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">“Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. Fusce vel lorem libero. Integer ex mi, facilisis sed nisi ut.”</div>
+										<div class="testimonial_text">CCLT is a company based in Bangangté in western Cameroon which offers software hardware maintenance services while providing support for all its customers. It also offers training in both general IT and specific technologies.</div>
 										<div class="testimonial_author">
-											<div class="testimonial_image"><img src="images/testimonials.jpg" alt=""></div>
+											<div class="testimonial_image"><img src="images/cclt.jpg" alt=""></div>
 											<div class="testimonial_content">
-												<div class="testimonial_name"><a href="#">Michael Smith</a></div>
-												<div class="testimonial_title">personal trader</div>
+												<div class="testimonial_name"><a href="#">CCLT Connexion</a></div>
+												<div class="testimonial_title"></div>
 											</div>
 										</div>
 									</div>
@@ -198,30 +149,31 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 					<div class="faq">
 						<div class="section_title_container">
 							<div class="section_subtitle">take a look at our</div>
-							<div class="section_title">Faq / Frequently asked questions</div>
+							<div class="section_title">Activities</div>
 						</div>
 						
 						<!-- Accordions -->
 						<div class="elements_accordions">
 
 							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center"><div>Aenean nec ipsum aliquet, pharetra magna id, interdum</div></div>
+								<div class="accordion d-flex flex-row align-items-center active"><div>About services</div></div>
 								<div class="accordion_panel">
-									<p>Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. </p>
+									<p>We act as consultants, guide and managers of your software resources while guaranteeing the best quality for the implementation.</p>
 								</div>
 							</div>
 
 							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center"><div>Aenean nec ipsum aliquet, pharetra magna id, interdum</div></div>
+								<div class="accordion d-flex flex-row align-items-center"><div>About innovation</div></div>
 								<div class="accordion_panel">
-									<p>Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. </p>
+									<p>We make it a priority to research, design and implement innovative, cost-effective projects because we believe that it is largely through innovation that the economic value of a region can be enhanced.</p>
 								</div>
 							</div>
 
 							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center active"><div>Aenean nec ipsum aliquet, pharetra magna id, interdum</div></div>
+								<div class="accordion d-flex flex-row align-items-center"><div>About formations</div></div>
 								<div class="accordion_panel">
-									<p>Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec. </p>
+									<p>The effectiveness of training in the growth of the company is well established. The results of training are concrete and measurable in terms of both productivity and the professional development of the staff. Although we carefully screen our teams, training within the company itself will allow them to have the same vision and move in the same direction. The company will be able to dictate the objective and the strategy to achieve it. The know-how of our employees cannot be questioned since they have been trained by experienced professionals. Productivity geared towards innovation also requires up-to-date skills with new technologies and a high level of motivation from the team.</p>
+									<p>However, we also offer training courses within the availability of our catalogue.</p>
 								</div>
 							</div>
 

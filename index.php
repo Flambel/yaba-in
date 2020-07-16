@@ -63,6 +63,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						</div>
 						<div class="intro_text">
 							<p>Yaba-In is a Cameroonian enterprize serving Africa and the whole world through the development of IT and innovative solutions to create value. Our teams are mainly composed of young competent, disciplined and passionate IT specialists. We also provide you with our vast network of partners in various fields.</p>
+							<p> We are based in the city of Bangangté, West Cameroon.</p>
 						</div>
 						<div class="link_button intro_button"><a href="about.php">read more</a></div>
 					</div>
@@ -138,7 +139,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<h1 class="converter_title">OUR TEAMS</h1>
 						</div>
 						<div class="converter_text">
-							<p>content text</p>
+							<p>The competence of our teams and owl-carouselr consultants on technologies according to international standards has earned us a first-rate level of partnership with companies that trust us by asking us to manage their projects for almost three years.</p>
 						</div>
 					</div>
 				</div>
@@ -423,7 +424,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 					<div class="col-md-4 order-md-1 order-2">
 						<div class="copyright_content d-flex flex-row align-items-center justify-content-start">
 							<div class="cr">
-&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made by YabaIn</div>
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made by Yaba-In</div>
 						</div>
 						</div>
 					</div>

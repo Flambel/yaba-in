@@ -641,12 +641,12 @@ section
 }
 .accordion.active
 {
-	background: #003679;
+	background: #15191f;
 	color: #FFFFFF;
 }
 .accordion:active
 {
-	background: #fffbfa !important;
+	background: #15191f !important;
 }
 .accordion::after
 {
@@ -679,7 +679,7 @@ section
 }
 .accordion:hover
 {
-	background: #003679;
+	background: #15191f;
 	color: #FFFFFF;
 }
 .accordion_panel
@@ -696,36 +696,4 @@ section
 .accordion_panel p
 {
 	padding-top: 28px;
-}
-
-/*********************************
-9. CTA
-*********************************/
-
-.cta
-{
-	background: #2c3642;
-}
-.cta_content
-{
-	height: 123px;
-}
-.cta_text a
-{
-	font-family: 'gill', sans-serif;
-	font-size: 48px;
-	color: #FFFFFF;
-	-webkit-transition: all 200ms ease;
-	-moz-transition: all 200ms ease;
-	-ms-transition: all 200ms ease;
-	-o-transition: all 200ms ease;
-	transition: all 200ms ease;
-}
-.cta_text a:hover
-{
-	color: #ffa800;
-}
-.cta_button_container
-{
-	height: 123px;
 }
