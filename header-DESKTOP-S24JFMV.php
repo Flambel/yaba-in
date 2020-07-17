@@ -210,7 +210,7 @@ function myheader($title, $style1, $style2){
 								</div>
 								<div class="main_menu_contact ml-auto">
 									<div class="main_menu_phone"><img src="images/phone-call.svg" alt=""><span>+237 691 224 472</span></div>
-									<div class="main_menu_email"><img src="images/envelope.svg" alt=""><span>contact@yabain.com</span></div>
+									<div class="main_menu_email"><a href="contact@yabain.com"><img src="images/envelope.svg" alt=""><span>contact@yabain.com</span></a></div>
 									<div class="main_menu_search">
 										<div class="main_menu_search_button">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 512 512" enable-background="new 0 0 512 512" width="15px" height="15px">
@@ -241,7 +241,7 @@ function myheader($title, $style1, $style2){
 							<div class="col">
 								<div class="menu_register_login_content d-flex flex-row align-items-center justify-content-end">
 									<div class="register"><a href="#" onclick="msg()">Register</a></div>
-									<div class="login"><a href="login.php">Login</a></div>
+									<div class="login"><a href="./yabaStore/index.php">Login</a></div>
 								</div>
 							</div>
 						</div>
