@@ -60,14 +60,49 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 	</div>
 
 	<!-- Info -->
-
-				<?php
-				include './new/map.php';
-				?>
-
 	<div class="test_faq">
 		<div class="container">
 			<div class="row">
+				<div class="col-lg-6 test_faq_col">
+					
+					<!-- FAQ -->
+
+					<div class="faq">
+						<div class="section_title_container">
+							<div class="section_subtitle">take a look at our</div>
+							<div class="section_title">Activities</div>
+						</div>
+						
+						<!-- Accordions -->
+						<div class="elements_accordions">
+
+							<div class="accordion_container">
+								<div class="accordion d-flex flex-row align-items-center active"><div>About services</div></div>
+								<div class="accordion_panel">
+									<p>We act as consultants, guide and managers of your software resources while guaranteeing the best quality for the implementation.</p>
+								</div>
+							</div>
+
+							<div class="accordion_container">
+								<div class="accordion d-flex flex-row align-items-center"><div>About innovation</div></div>
+								<div class="accordion_panel">
+									<p>We make it a priority to research, design and implement innovative, cost-effective projects because we believe that it is largely through innovation that the economic value of a region can be enhanced.</p>
+								</div>
+							</div>
+
+							<div class="accordion_container">
+								<div class="accordion d-flex flex-row align-items-center"><div>About formations</div></div>
+								<div class="accordion_panel">
+									<p>The effectiveness of training in the growth of the company is well established. The results of training are concrete and measurable in terms of both productivity and the professional development of the staff. Although we carefully screen our teams, training within the company itself will allow them to have the same vision and move in the same direction. The company will be able to dictate the objective and the strategy to achieve it. The know-how of our employees cannot be questioned since they have been trained by experienced professionals. Productivity geared towards innovation also requires up-to-date skills with new technologies and a high level of motivation from the team.</p>
+									<p>However, we also offer training courses within the availability of our catalogue.</p>
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+				
 				<div class="col-lg-6 test_faq_col">
 					
 					<!-- Testimonials -->
@@ -142,45 +177,6 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 					</div>
 				</div>
 
-				<div class="col-lg-6 test_faq_col">
-					
-					<!-- FAQ -->
-
-					<div class="faq">
-						<div class="section_title_container">
-							<div class="section_subtitle">take a look at our</div>
-							<div class="section_title">Activities</div>
-						</div>
-						
-						<!-- Accordions -->
-						<div class="elements_accordions">
-
-							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center active"><div>About services</div></div>
-								<div class="accordion_panel">
-									<p>We act as consultants, guide and managers of your software resources while guaranteeing the best quality for the implementation.</p>
-								</div>
-							</div>
-
-							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center"><div>About innovation</div></div>
-								<div class="accordion_panel">
-									<p>We make it a priority to research, design and implement innovative, cost-effective projects because we believe that it is largely through innovation that the economic value of a region can be enhanced.</p>
-								</div>
-							</div>
-
-							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center"><div>About formations</div></div>
-								<div class="accordion_panel">
-									<p>The effectiveness of training in the growth of the company is well established. The results of training are concrete and measurable in terms of both productivity and the professional development of the staff. Although we carefully screen our teams, training within the company itself will allow them to have the same vision and move in the same direction. The company will be able to dictate the objective and the strategy to achieve it. The know-how of our employees cannot be questioned since they have been trained by experienced professionals. Productivity geared towards innovation also requires up-to-date skills with new technologies and a high level of motivation from the team.</p>
-									<p>However, we also offer training courses within the availability of our catalogue.</p>
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>

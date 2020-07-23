@@ -106,7 +106,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="info_image"><img src="images/info_2.png" alt=""></div>
 						<div class="info_title">Impact the world</div>
 						<div class="info_text">
-							<p>content text</p>
+							<p>To be inescapable in the worldwide</p>
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="info_image"><img src="images/info_1.png" alt=""></div>
 						<div class="info_title">Create value</div>
 						<div class="info_text">
-							<p>content text</p>
+							<p>Earn money</p>
 						</div>
 					</div>
 				</div>
@@ -146,10 +146,10 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="col-lg-7">
 					<div class="converter_container">
 						<form action="#">
-							<a href="analysis.php"><input type="button" value="ANALYSIS / DESIGN" class="converter_input_value converter_input"></a>
-							<a href="software.php"><input type="button" value="SOFTWARE DEVELOPERS" class="converter_input_value converter_input"></a>
-							<a href="maintenance.php"><input type="button" value="MAINTENANCE TEAM" class="converter_input_value converter_input"></a>
-							<a href="consultants.php"><input type="button" value="CONSULTANTS TEAM" class="converter_input_value converter_input"></a>
+							<a href="404.php"><input type="button" value="ANALYSIS / DESIGN" class="converter_input_value converter_input"></a>
+							<a href="404.php"><input type="button" value="SOFTWARE DEVELOPERS" class="converter_input_value converter_input"></a>
+							<a href="404.php"><input type="button" value="MAINTENANCE TEAM" class="converter_input_value converter_input"></a>
+							<a href="404.php"><input type="button" value="CONSULTANTS TEAM" class="converter_input_value converter_input"></a>
 						</form>
 					</div>
 				</div>
@@ -180,10 +180,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="news_content">
 							<div class="news_title">ANALYSIS AND DESIGN</div>
 							<div class="news_text">
-								<p>content text</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="news.php">read more</a></div>
+						<div class="news_button"><a href="404.php">read more</a></div>
 					</div>
 				</div>
 
@@ -196,10 +195,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="news_content">
 							<div class="news_title">WEB SOLUTIONS</div>
 							<div class="news_text">
-								<p>content text</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="news.php">read more</a></div>
+						<div class="news_button"><a href="404.php">read more</a></div>
 					</div>
 				</div>
 
@@ -212,10 +210,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="news_content">
 							<div class="news_title">DESCKTOP SOLUTIONS</div>
 							<div class="news_text">
-								<p>content text</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="news.php">read more</a></div>
+						<div class="news_button"><a href="404.php">read more</a></div>
 					</div>
 				</div>
 
@@ -228,10 +225,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="news_content">
 							<div class="news_title">MOBILE APP SOLUTIONS</div>
 							<div class="news_text">
-								<p>content text</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="mobile.php">read more</a></div>
+						<div class="news_button"><a href="404.php">read more</a></div>
 					</div>
 				</div>
 
@@ -244,10 +240,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="news_content">
 							<div class="news_title">ERP SOLUTIONS</div>
 							<div class="news_text">
-								<p>content text</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="erp.php">read more</a></div>
+						<div class="news_button"><a href="404.php">read more</a></div>
 					</div>
 				</div>
 
@@ -260,10 +255,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="news_content">
 							<div class="news_title">SOFTWARE MAINTENANCE</div>
 							<div class="news_text">
-								<p>content text</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="maintenance.php">read more</a></div>
+						<div class="news_button"><a href="404.php">read more</a></div>
 					</div>
 				</div>
 

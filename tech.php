@@ -35,11 +35,11 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 			<div class="row loaders_container">
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.90"><span>HTML / CSS</span></div>
+					<div class="loader" data-perc="0.93"><span>HTML / CSS</span></div>
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.80"><span>PHP</span></div>
+					<div class="loader" data-perc="0.90"><span>PHP</span></div>
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
