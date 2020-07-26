@@ -184,7 +184,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.hmtl">Software maintenance
+												<li><a href="404.php">Software maintenance
 													<svg version="1.1" id="Layer_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>

@@ -1,7 +1,7 @@
 
 <?php
 include 'header.php';
-myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_styles.css">','<link rel="stylesheet" type="text/css" href="styles/responsive.css">');
+myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_styles.css">','<link rel="stylesheet" type="text/css" href="styles/responsive.css"><link rel="stylesheet" type="text/css" href="styles/services_responsive.css">');
 ?>
 
 		<div class="home_slider_container">
@@ -193,7 +193,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_2.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">WEB SOLUTIONS</div>
+							<div class="news_title">WEB APPLICATIONS</div>
 							<div class="news_text">
 							</div>
 						</div>
@@ -208,7 +208,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_3.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">DESCKTOP SOLUTIONS</div>
+							<div class="news_title">DESKTOP APPLICATIONS</div>
 							<div class="news_text">
 							</div>
 						</div>
@@ -223,7 +223,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_4.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">MOBILE APP SOLUTIONS</div>
+							<div class="news_title">MOBILE APPLICATIONS</div>
 							<div class="news_text">
 							</div>
 						</div>
@@ -253,7 +253,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_6.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">SOFTWARE MAINTENANCE</div>
+							<div class="news_title">SOFTWARE SOLUTIONS</div>
 							<div class="news_text">
 							</div>
 						</div>
@@ -379,7 +379,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<li><a href="">...........</a></li>
 							<li><a href="analysis.php">Analysis and design</a></li>
 							<li><a href="web.php">Web solutions</a></li>
-							<li><a href="descktop.php">Descktop solutions</a></li>
+							<li><a href="descktop.php">Desktop solutions</a></li>
 							<li><a href="mobile.php">Mobile app</a></li>
 							<li><a href="erp.php">ERP solmutions</a></li>
 							<li><a href="arvr.php">AR / VR</a></li>

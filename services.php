@@ -42,63 +42,62 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 		<div class="container">
 			<div class="row">
 				<div class="col d-flex flex-row flex-wrap align-items-start justify-content-start">
-
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/service_1.svg" class="svg" alt=""></div>
-						<div class="service_title">Transport & Logistics Consulting</div>
+						<div class="service_icon"><img src="images/..." class="svg" alt=""></div>
+						<div class="service_title">ANALYSIS AND DESIGN</div>
 						<div class="service_text">
-							<p>Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta s sem. Duis non volutpat arcu. Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta.</p>
+							<p>Content.</p>
 						</div>
 						<div class="service_link"><a href="#">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/service_2.svg" class="svg" alt=""></div>
-						<div class="service_title">Complete Financial Planning</div>
+						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
+						<div class="service_title">WEB SOLUTIONS</div>
 						<div class="service_text">
-							<p>Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta s sem. Duis non volutpat arcu. Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta.</p>
+							<p>Content.</p>
 						</div>
 						<div class="service_link"><a href="#">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/service_3.svg" class="svg" alt=""></div>
-						<div class="service_title">Safe & Secure Transactions</div>
+						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
+						<div class="service_title">DESKTOP SOLUTIONS</div>
 						<div class="service_text">
-							<p>Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta s sem. Duis non volutpat arcu. Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta.</p>
+							<p>Content.</p>
 						</div>
 						<div class="service_link"><a href="#">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/service_4.svg" class="svg" alt=""></div>
-						<div class="service_title">Private Internet Banking</div>
+						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
+						<div class="service_title">MOBILE APP SOLUTIONS</div>
 						<div class="service_text">
-							<p>Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta s sem. Duis non volutpat arcu. Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta.</p>
+							<p>Content.</p>
 						</div>
 						<div class="service_link"><a href="#">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/service_5.svg" class="svg" alt=""></div>
-						<div class="service_title">Best Business Consulting</div>
+						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
+						<div class="service_title">ERP SOLUTIONS</div>
 						<div class="service_text">
-							<p>Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta s sem. Duis non volutpat arcu. Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta.</p>
+							<p>Content.</p>
 						</div>
 						<div class="service_link"><a href="#">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/service_6.svg" class="svg" alt=""></div>
-						<div class="service_title">Consumer Products Consulting</div>
+						<div class="service_icon"><img src="images/...." class="svg" alt=""></div>
+						<div class="service_title">SOFTWARE SOLUTIONS</div>
 						<div class="service_text">
-							<p>Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta s sem. Duis non volutpat arcu. Sed ut iaculis elit, quis varius mauris. Integer ut ultric ies orci, lobortis egesta.</p>
+							<p>Content.</p>
 						</div>
 						<div class="service_link"><a href="#">Read More</a></div>
 					</div>
@@ -119,8 +118,8 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 				<div class="col-lg-8">
 					<div class="call_container">
 						<div class="section_title_container">
-							<div class="section_subtitle">take a look at our</div>
-							<div class="section_title">Request a Call Back</div>
+							<div class="section_subtitle">.</div>
+							<div class="section_title">Contact us immediately</div>
 						</div>
 						<div class="call_form_container">
 							<form action="#" class="call_form">
@@ -136,9 +135,9 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 									</div>
 									<div class="col-md-6">
 										<select class="dropdown_item input_item">
+											<option>Customer type</option>
 											<option>Business type</option>
-											<option>Business type</option>
-											<option>Business type</option>
+											<option>Other type</option>
 										</select>
 									</div>
 									<div class="col-md-12">

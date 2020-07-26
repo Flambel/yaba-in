@@ -125,7 +125,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 					<div class="milestone">
 						<div class="milestone_counter" data-end-value="6">0</div>
 						<div class="milestone_content">
-							<div class="milestone_title">Descktop solutions</div>
+							<div class="milestone_title">Desktop solutions</div>
 							<div class="milestone_subtitle">on Microsoft Windows.</div>
 						</div>
 					</div>

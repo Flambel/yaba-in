@@ -27,7 +27,7 @@ function footer($jScript){
 						<div class="logo_container footer_logo">
 							<div class="logo">
 								<a href="#">
-									<div class="logo_line_1">Yaba<span>In</span></div>
+									<div class="logo_line_1">Yaba-<span>In</span></div>
 									<div class="logo_line_2">Already running</div>
 									<div class="logo_img"><img src="images/logo_2.png" alt=""></div>
 								</a>
