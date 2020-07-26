@@ -35,11 +35,11 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 			<div class="row loaders_container">
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.90"><span>HTML / CSS</span></div>
+					<div class="loader" data-perc="0.93"><span>HTML / CSS</span></div>
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.80"><span>PHP</span></div>
+					<div class="loader" data-perc="0.90"><span>PHP</span></div>
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
@@ -125,7 +125,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 					<div class="milestone">
 						<div class="milestone_counter" data-end-value="6">0</div>
 						<div class="milestone_content">
-							<div class="milestone_title">Descktop solutions</div>
+							<div class="milestone_title">Desktop solutions</div>
 							<div class="milestone_subtitle">on Microsoft Windows.</div>
 						</div>
 					</div>

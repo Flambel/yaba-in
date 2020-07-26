@@ -40,31 +40,23 @@
 			};
 		</script>
 		<style type="text/css">
-			#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
-				height:400px;
-			}
 		</style>
 		<title>Carte</title>
 	</head>
 	<body>
 
 	<div class="info">
-		<div class="info_background parallax-window" data-parallax="scroll" data-image-src="images/about_info_map.jpg" data-speed="0.8"></div>
 		<div class="container">
-						<div class="section_title_container">
-							<div class="section_subtitle">take a look at our</div>
-							<div class="section_title">Geolocation</div>
-						</div>
 			<div class="row">
-
+				
 				<iframe 
-				    width="1000" 
-				    height="500" 
+				    width="1500" 
+				    height="600" 
 				    frameborder="0" 
 				    scrolling="no" 
 				    marginheight="0" 
 				    marginwidth="0" 
-				    src="http://maps.google.fr/?ie=UTF8&ll=5.1385853,10.5232003&spn=0.003098,0.006942&z=17&om=1&layer=c&output=embed&s=AARTsJqaq7rV0B9cs4JBrvPKbCnu0GGTnA">
+				    src="http://maps.google.fr/?ie=UTF8&ll=5.1385853,10.5232003&spn=0.003098,0.006942&z=15&om=1&layer=c&output=embed&s=AARTsJqaq7rV0B9cs4JBrvPKbCnu0GGTnA">
 				</iframe>
 
 

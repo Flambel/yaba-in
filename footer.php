@@ -27,7 +27,7 @@ function footer($jScript){
 						<div class="logo_container footer_logo">
 							<div class="logo">
 								<a href="#">
-									<div class="logo_line_1">Yaba<span>In</span></div>
+									<div class="logo_line_1">Yaba-<span>In</span></div>
 									<div class="logo_line_2">Already running</div>
 									<div class="logo_img"><img src="images/logo_2.png" alt=""></div>
 								</a>
@@ -45,7 +45,7 @@ function footer($jScript){
 							<li><a href="index.php">Home</a></li>
 							<li><a href="news.php">News</a></li>
 							<li><a href="tech.php">Tech</a></li>
-							<li><a href="404.php">Services</a></li>
+							<li><a href="services.php">Services</a></li>
 							<li><a href="about.php">About us</a></li>
 							<li><a href="404.php">Contact</a></li>
 							<li><a href="">...........</a></li>
@@ -91,7 +91,7 @@ function footer($jScript){
 					<div class="col-md-4 order-md-1 order-2">
 						<div class="copyright_content d-flex flex-row align-items-center justify-content-start">
 							<div class="cr">
-&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Yaba-In</div>
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made by Yaba-In</div>
 						</div>
 						</div>
 					</div>

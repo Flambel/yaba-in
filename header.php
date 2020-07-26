@@ -127,7 +127,7 @@ function myheader($title, $style1, $style2){
 											</svg>
 										</a></li>
 										<li class="<?php echo $page4; ?>">
-											<a href="404.php">SERVICES
+											<a href="services.php">SERVICES
 												<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 													 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 													<g>
@@ -184,7 +184,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.hmtl">Software maintenance
+												<li><a href="404.php">Software maintenance
 													<svg version="1.1" id="Layer_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -201,7 +201,7 @@ function myheader($title, $style1, $style2){
 											</svg>
 										</a></li>
 										<li class="<?php echo $page6; ?>">
-											<a href="404.php">CONTACT
+											<a href="contact.php">CONTACT
 											<svg version="1.1" id="Layer_16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 												 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 											</svg>
@@ -280,7 +280,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="404.php">Services</a>
+									<a href="services.php">Services</a>
 								</div>
 							</div>
 						</div>
@@ -298,7 +298,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="404.php">contact</a>
+									<a href="contact.php">contact</a>
 								</div>
 							</div>
 						</div>
