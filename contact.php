@@ -12,7 +12,7 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 							<div class="home_title">Contact</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="financial.html">Home</a></li>
+									<li><a href="index.html">Home</a></li>
 									<li>Contact</li>
 								</ul>
 							</div>

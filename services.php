@@ -44,7 +44,6 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 				<div class="col d-flex flex-row flex-wrap align-items-start justify-content-start">
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/..." class="svg" alt=""></div>
 						<div class="service_title">ANALYSIS AND DESIGN</div>
 						<div class="service_text">
 							<p>We focus on investigating the problem to be solved. We also focus on a conceptual software solution that meets your requirements through the description of models, database schemas and software objects.</p>
@@ -54,17 +53,15 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
 						<div class="service_title">WEB SOLUTIONS</div>
 						<div class="service_text">
-							<p>We have a web design, backend, frontend and fullstack developer team with several achievements to their credit, for a better quality service</p>
+							<p>We have a web design, backend, frontend and fullstack developer team with several achievements to their credit, for a better quality service.</p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
 						<div class="service_title">DESKTOP SOLUTIONS</div>
 						<div class="service_text">
 							<p>Content.</p>
@@ -74,7 +71,6 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
 						<div class="service_title">MOBILE APP SOLUTIONS</div>
 						<div class="service_text">
 							<p>Content.</p>
@@ -84,7 +80,6 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
 						<div class="service_title">ERP SOLUTIONS</div>
 						<div class="service_text">
 							<p>Content.</p>
@@ -94,7 +89,6 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_icon"><img src="images/...." class="svg" alt=""></div>
 						<div class="service_title">SOFTWARE SOLUTIONS</div>
 						<div class="service_text">
 							<p>Content.</p>

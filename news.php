@@ -12,7 +12,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 							<div class="home_title">The News</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="financial.php">Home</a></li>
+									<li><a href="index.php">Home</a></li>
 									<li>News</li>
 								</ul>
 							</div>
