@@ -47,9 +47,9 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_icon"><img src="images/..." class="svg" alt=""></div>
 						<div class="service_title">ANALYSIS AND DESIGN</div>
 						<div class="service_text">
-							<p>Content.</p>
+							<p>We focus on investigating the problem to be solved. We also focus on a conceptual software solution that meets your requirements through the description of models, database schemas and software objects.</p>
 						</div>
-						<div class="service_link"><a href="#">Read More</a></div>
+						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
@@ -57,9 +57,9 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_icon"><img src="images/....." class="svg" alt=""></div>
 						<div class="service_title">WEB SOLUTIONS</div>
 						<div class="service_text">
-							<p>Content.</p>
+							<p>We have a web design, backend, frontend and fullstack developer team with several achievements to their credit, for a better quality service</p>
 						</div>
-						<div class="service_link"><a href="#">Read More</a></div>
+						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
@@ -69,7 +69,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Content.</p>
 						</div>
-						<div class="service_link"><a href="#">Read More</a></div>
+						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
@@ -79,7 +79,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Content.</p>
 						</div>
-						<div class="service_link"><a href="#">Read More</a></div>
+						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
@@ -89,7 +89,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Content.</p>
 						</div>
-						<div class="service_link"><a href="#">Read More</a></div>
+						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
@@ -99,7 +99,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Content.</p>
 						</div>
-						<div class="service_link"><a href="#">Read More</a></div>
+						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 				</div>
@@ -108,6 +108,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 	</div>
 
 	<!-- Call Back -->
+
 
 	<div class="call">
 		<div class="container">
