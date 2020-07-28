@@ -46,34 +46,34 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 					<div class="service">
 						<div class="service_title">ANALYSIS AND DESIGN</div>
 						<div class="service_text">
-							<p>We focus on investigating the problem to be solved. We also focus on a conceptual software solution that meets your requirements through the description of models, database schemas and software objects.</p>
+							<p>We focus on investigating the problem to be solved and conceptual software solution that meets your requirements through the description of models, database schemas and software objects.</p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_title">WEB SOLUTIONS</div>
+						<div class="service_title">WEB APPLICATIONS</div>
 						<div class="service_text">
-							<p>We have a web design, backend, frontend and fullstack developer team with several achievements to their credit, for a better quality service.</p>
+							<p>We have a web design, backend, frontend and fullstack developer team with many achievements to their credit, for a better quality service.<br /><br /><br /></p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_title">DESKTOP SOLUTIONS</div>
+						<div class="service_title">DESKTOP APPLICATIONS</div>
 						<div class="service_text">
-							<p>Content.</p>
+							<p>We have extensive experience in the development of desktop Windows solutions. However, we offer solutions based on the linux kernel.<br /><br /><br /></p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_title">MOBILE APP SOLUTIONS</div>
+						<div class="service_title">MOBILE APPLICATIONS</div>
 						<div class="service_text">
-							<p>Content.</p>
+							<p>Mobility is a very important factor in the digital world. As a result, we make applications usable on mobile devices for a more accessible experience..</p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
@@ -82,7 +82,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 					<div class="service">
 						<div class="service_title">ERP SOLUTIONS</div>
 						<div class="service_text">
-							<p>Content.</p>
+							<p>Realization of Enterprise resource planning modules on Odoo, install and configure your solutions to manage all the processes of your company by integrating all of its functions..</p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>

@@ -144,7 +144,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">Web solutions
+												<li><a href="404.php">Web applications
 													<svg version="1.1" id="Layer_7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -152,7 +152,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">Desktop solutions
+												<li><a href="404.php">Desktop applocations
 													<svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -160,7 +160,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">Mobile app
+												<li><a href="404.php">Mobile applications
 													<svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
