@@ -31,13 +31,13 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 				<div class="col-lg-6 features_col">
 					<div class="features_content">
 						<div class="section_title_container">
-							<div class="section_title">Why trust Yaba-In?</div>
+							<div class="section_title">Why to trust Yaba-In?</div>
 							<div class="section_text">
-								<p>Yaba-In is a Cameroonian engineering company whose growth engine is the development of expertise in software engineering.
-									The competence of our teams and owl-carouselr consultants on technologies according to international standards has earned us a first-rate level of partnership with companies that trust us by asking us to manage their projects for almost three years.
+								<p>Yaba-In is a Cameroonian engineering company whose growth engine is the development of  software engineering expertise.
+									The competence of our teams consultants on technologies according to international standards has earned us a first-rate level of partnership with companies that trust.
 									We are based in the city of Bangangté, West Cameroon.</p>
 
-								<p>For many years, we have developed a diversified experience in the fields of management, audit and assistance in the organization, analysis, design and development of software solutions.</p>
+								<p>We have been developing for several years diversified experiences in the fields of management, audit, assistance in the organization, analysis, design and development of software solutions.</p>
 
 								<p>Our core values:
  
@@ -93,7 +93,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 							<div class="accordion_container">
 								<div class="accordion d-flex flex-row align-items-center"><div>About formations</div></div>
 								<div class="accordion_panel">
-									<p>The effectiveness of training in the growth of the company is well established. The results of training are concrete and measurable in terms of both productivity and the professional development of the staff. Although we carefully screen our teams, training within the company itself will allow them to have the same vision and move in the same direction. The company will be able to dictate the objective and the strategy to achieve it. The know-how of our employees cannot be questioned since they have been trained by experienced professionals. Productivity geared towards innovation also requires up-to-date skills with new technologies and a high level of motivation from the team.</p>
+									<p>Well-established training contributes to the company's growth. The traning results are concrete and measurable in terms of both productivity the professional development of the staff. Although we carefully screen our teams, training within the company itself will allow them to have the same vision and move in the same direction. The company will be able to dictate the objective and the strategy to achieve it. The skills of our employees cannot be questioned since they have been trained by experienced professionals. Productivity geared towards innovation also requires up-to-date skills with new technologies and a high level of motivation from the team.</p>
 									<p>However, we also offer training courses within the availability of our catalogue.</p>
 								</div>
 							</div>
@@ -161,7 +161,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">CCLT is a company based in Bangangté in western Cameroon which offers software hardware maintenance services while providing support for all its customers. It also offers training in both general IT and specific technologies.</div>
+										<div class="testimonial_text">CCLT is a company based in Bangangté in west Cameroon which offers software hardware maintenance services while providing support for all its customers. It also offers training in both general IT and specific technologies.</div>
 										<div class="testimonial_author">
 											<div class="testimonial_image"><img src="images/cclt.jpg" alt=""></div>
 											<div class="testimonial_content">

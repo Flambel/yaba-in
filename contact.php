@@ -60,13 +60,13 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 						<form action="#" class="contact_form">
 							<div class="row">
 								<div class="col-md-6">
-									<input type="text" class="input_item" placeholder="Your Name" required="required">
+									<input type="text" class="input_item" placeholder="Name" required="required">
 								</div>
 								<div class="col-md-6">
-									<input type="email" class="input_item" placeholder="Your E-mail" required="required">
+									<input type="email" class="input_item" placeholder="E-mail" required="required">
 								</div>
 								<div class="col-md-6">
-									<input type="text" class="input_item" placeholder="Your Phone">
+									<input type="text" class="input_item" placeholder="Phone number">
 								</div>
 								<div class="col-md-6">
 									<select class="dropdown_item input_item">
@@ -76,7 +76,7 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 									</select>
 								</div>
 								<div class="col-md-12">
-									<textarea id="contact_message" class="input_item contact_message" name="message" placeholder=" Your Message" required="required" data-error="Please, write us a message."></textarea>
+									<textarea id="contact_message" class="input_item contact_message" name="message" placeholder=" Message" required="required" data-error="Please, write us a message."></textarea>
 								</div>
 								<div class="col-md-12">
 									<button id="contact_btn" type="submit" class="contact_button trans_200" value="Submit">submit</button>

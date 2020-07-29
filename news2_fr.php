@@ -1,6 +1,6 @@
 <?php
-include 'header.php';
-myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">','<link rel="stylesheet" type="text/css" href="styles/news_responsive.css">');
+include 'header_fr.php';
+myheader("Infos", '<link rel="stylesheet" type="text/css" href="styles/news.css">','<link rel="stylesheet" type="text/css" href="styles/news_responsive.css">');
 ?>
 
 		<div class="home_background parallax-window" data-parallax="scroll" data-image-src="images/news_background.jpg" data-speed="0.8"></div>
@@ -9,11 +9,11 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 				<div class="col">
 					<div class="home_content">
 						<div class="home_content_inner">
-							<div class="home_title">The News</div>
+							<div class="home_title">Infos</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="index.php">Home</a></li>
-									<li>News</li>
+									<li><a href="index_fr_fr.php">Accueil</a></li>
+									<li>Infos</li>
 								</ul>
 							</div>
 						</div>
@@ -21,7 +21,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 				</div>
 			</div>
 		</div>
-</div>
+	</div>
 	
 	<!-- News -->
 
@@ -34,17 +34,17 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 					<div class="news_post">
 						<div class="news_image"><img src="images/news_post_8.jpg" alt=""></div>
 						<div class="news_date d-flex flex-column align-items-center justify-content-center">
-							<div class="news_month">feb</div>
 							<div class="news_day">10</div>
+							<div class="news_month">fév</div>
 							<div class="news_year">2019</div>
 						</div>
 						<div class="news_content">
-							<div class="news_title">Establishment of a new executive office</div>
+							<div class="news_title">Mise en place d'un nouveau bureau exécutif</div>
 							<div class="news_text">
-								<p>Friday, May 17, 2019, there was a meeting chaired by Cédric NGENDAP, deputy director of Yaba-In for the establishment of a new executive office.</p>
+								<p>Vendredi 17 mai 2019, s'est tenu une réunion présidée par Cédric NGENDAP, directeur adjoint de Yaba-In pour la mise en place d'un nouveau bureau exécutif.</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="404.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -53,17 +53,17 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 					<div class="news_post">
 						<div class="news_image"><img src="images/news_post_9.jpg" alt=""></div>
 						<div class="news_date d-flex flex-column align-items-center justify-content-center">
-							<div class="news_month">APR</div>
 							<div class="news_day">22</div>
+							<div class="news_month">Avr</div>
 							<div class="news_year">2018</div>
 						</div>
 						<div class="news_content">
-							<div class="news_title">AR / VR Africa Hackathon final results by <a target="_blank" href="http://www.sdkgames.com/">SDK Games Africa</a>.</div>
+							<div class="news_title">Résultats finaux du hackathon AR / VR Africa par <a target="_blank" href="http://www.sdkgames.com/">SDK Games Africa</a>.</div>
 							<div class="news_text">
-								<p>Third place in this Virtual Reality / Augmented Reality competition which brought together teams from different regions of Cameroon.</p>
+								<p>Troisième place de ce concours de Réalité Virtuelle / Réalité Augmentée qui a réuni des équipes de différentes régions du Cameroun.</p>
 							</div>
 						</div>
-						<div class="news_button"><a target="_blank" href="https://www.facebook.com/SDKGames/videos/1786688768307549/">read more</a></div>
+						<div class="news_button"><a target="_blank" href="https://www.facebook.com/SDKGames/videos/1786688768307549/">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -74,7 +74,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 				<div class="col">
 					<div class="page_nums">
 						<ul>
-							<li><a href="news.php">01</a></li>
+							<li><a href="news_fr.php">01</a></li>
 							<li class="active"><a href="#">02</a></li>
 						</ul>
 					</div>
@@ -85,6 +85,6 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 	</div>
 
 <?php
-include 'footer.php';
+include 'footer_fr.php';
 footer("");
 ?>

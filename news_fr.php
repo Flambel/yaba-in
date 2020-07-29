@@ -39,7 +39,7 @@ myheader("Infos", '<link rel="stylesheet" type="text/css" href="styles/news.css"
 							<div class="news_year">2020</div>
 						</div>
 						<div class="news_content">
-							<div class="news_title">Entrée en incubation à<a target="_blank" href="http://obotama.com/en/">O'Botama</a></div>
+							<div class="news_title">Entrée en incubation à <a target="_blank" href="http://obotama.com/en/">O'Botama</a></div>
 							<div class="news_text">
 								<p>Suite au boot camp du 24 au 28.02.2020 à Yaoundé au Cameroun, Yaba-In sera accompagné par l'entreprise O'Botama qui soutient les entrepreneurs africains.</p>
 							</div>
@@ -161,7 +161,7 @@ myheader("Infos", '<link rel="stylesheet" type="text/css" href="styles/news.css"
 								<p>Encore une fois, la performance et le professionnalisme de Yaba-In ont été salués. Flambel SANOU, directeur général de Yaba-In présente trois modules Odoo10 spécialisés dans le secteur médical à l'ensemble de la direction d'une entreprise locale développés sur commande et sur mesure.</p>
 							</div>
 						</div>
-						<div class="news_button"><a href="404_fr.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 

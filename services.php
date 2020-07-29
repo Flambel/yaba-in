@@ -82,7 +82,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 					<div class="service">
 						<div class="service_title">ERP SOLUTIONS</div>
 						<div class="service_text">
-							<p>Realization of Enterprise resource planning modules on Odoo. Install and configure your solutions to manage all the processes of your company by integrating all of its functions..</p>
+							<p>Realization of Enterprise resource planning modules on Odoo. Install and configurate your solutions to manage all the processes of your company by integrating all of its functions..</p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
@@ -120,13 +120,13 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 							<form action="#" class="call_form">
 								<div class="row">
 									<div class="col-md-6">
-										<input type="text" class="input_item" placeholder="Your Name" required="required">
+										<input type="text" class="input_item" placeholder="Name" required="required">
 									</div>
 									<div class="col-md-6">
-										<input type="email" class="input_item" placeholder="Your E-mail" required="required">
+										<input type="email" class="input_item" placeholder="E-mail" required="required">
 									</div>
 									<div class="col-md-6">
-										<input type="text" class="input_item" placeholder="Your Phone">
+										<input type="text" class="input_item" placeholder="Phone number">
 									</div>
 									<div class="col-md-6">
 										<select class="dropdown_item input_item">

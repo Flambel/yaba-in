@@ -156,7 +156,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 						<div class="news_content">
 							<div class="news_title">Delivery of Odoo10 modules.</div>
 							<div class="news_text">
-								<p>Again, performance and professionalism were praised. Flambel SANOU, general director of Yaba-In presents three Odoo10 modules specialized in the medical sector to the entire management of a local company, developed to order and to measure.</p>
+								<p>Once again, performance and professionalism were praised. Flambel SANOU, Managing Director of Yaba-In presents three Odoo10 modules specialized in the medical sector to the entire management of a local company developed to order.</p>
 							</div>
 						</div>
 						<div class="news_button"><a href="404.php">read more</a></div>

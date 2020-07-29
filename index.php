@@ -62,7 +62,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<div class="intro_subtitle">Who are we?</div>
 						</div>
 						<div class="intro_text">
-							<p>Yaba-In is a Cameroonian enterprize serving Africa and the whole world through the development of IT and innovative solutions to create value. Our teams are mainly composed of young competent, disciplined and passionate IT specialists. We also provide you with our vast network of partners in various fields.</p>
+							<p>Yaba-In is a Cameroonian company serving Africa and the whole world through the development of IT and innovative solutions in the creation of value. Our teams are mainly composed of young  IT specialists who are competent, disciplined and passionate. We also put at your disposal our vast network of partners in various fields.</p>
 							<p> We are based in the city of Bangangté, West Cameroon.</p>
 						</div>
 						<div class="link_button intro_button"><a href="about.php">read more</a></div>
@@ -139,7 +139,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<h1 class="converter_title">OUR TEAMS</h1>
 						</div>
 						<div class="converter_text">
-							<p>The competence of our teams and consultants on technologies according to international standards has earned us a first-rate partnership with companies who trust us by entrusting us with the management of their IT projects.</p>
+							<p>The competence of our teams and consultants on technologies according to international standards has earned us a first-rate partnership with companies who trust us through the management of their IT projects.</p>
 						</div>
 					</div>
 				</div>
