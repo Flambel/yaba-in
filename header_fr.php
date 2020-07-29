@@ -6,10 +6,10 @@ function myheader($title, $style1, $style2){
 	$page4="hassubs";
 	$page5="hassubs";
 	$page6="hassubs";
-	if($title=="Home"){
+	if($title=="Accueil"){
 		$page1="active hassubs";
 	}
-	else if($title=="News"){
+	else if($title=="Infos"){
 		$page2="active hassubs";
 	}
 	else if($title=="Tech"){
@@ -18,7 +18,7 @@ function myheader($title, $style1, $style2){
 	else if($title=="Services"){
 		$page4="active hassubs";
 	}
-	else if($title=="About"){
+	else if($title=="A propos"){
 		$page5="active hassubs";
 	}
 	else if($title=="Contact"){
@@ -64,7 +64,7 @@ function myheader($title, $style1, $style2){
 									<div class="logo">
 										<a href="#">
 											<div class="logo_line_1">Yaba-<span>In</span></div>
-											<div class="logo_line_2">Already running.</div>
+											<div class="logo_line_2">Déjà en marche.</div>
 											<div class="logo_img"><img src="images/logo.png" alt=""></div>
 										</a>
 									</div>
@@ -85,8 +85,8 @@ function myheader($title, $style1, $style2){
 										  alert("You cannot access. Please contact the administrator.");
 										}
 										</script>
-										<div class="register"><a href="#" onclick="msg()">register</a></div>
-										<div class="login"><a href="yabaStore/index.php">login</a></div>
+										<div class="register"><a href="#" onclick="msg()">S'enregistrer</a></div>
+										<div class="login"><a href="yabaStore/index_fr.php">Se connecter</a></div>
 									</div>
 								</div>
 								<div class="burger">
@@ -107,27 +107,27 @@ function myheader($title, $style1, $style2){
 								<div class="main_menu_content">
 									<ul class="main_menu_list">
 										<li class="<?php echo $page1; ?>">
-											<a href="index.php">HOME
+											<a href="index_fr.php">Accueil
 												<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 													 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 												</svg>
 											</a>
 										</li>
 										<li class="<?php echo $page2; ?>">
-											<a href="news.php">NEWS
+											<a href="news_fr.php">INFOS
 												<svg version="1.1" id="Layer_10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 													 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 												</svg>
 											</a>
 										</li>
 										<li class="<?php echo $page3; ?>">
-											<a href="tech.php">TECH
+											<a href="tech_fr.php">TECH
 											<svg version="1.1" id="Layer_15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 												 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 											</svg>
 										</a></li>
 										<li class="<?php echo $page4; ?>">
-											<a href="services.php">SERVICES
+											<a href="services_fr.php">SERVICES
 												<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 													 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 													<g>
@@ -136,7 +136,7 @@ function myheader($title, $style1, $style2){
 												</svg>
 											</a>
 											<ul>
-												<li><a href="404.php">Analysis and design
+												<li><a href="404_fr.php">Analyse / Conception
 													<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -144,7 +144,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">Web applications
+												<li><a href="404_fr.php">Développement web
 													<svg version="1.1" id="Layer_7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -152,7 +152,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">Desktop applocations
+												<li><a href="404_fr.php">Développement desktop
 													<svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -160,7 +160,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">Mobile applications
+												<li><a href="404_fr.php">Développement mobile
 													<svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -168,7 +168,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">ERP solutions
+												<li><a href="404_fr.php">Solutions PGI
 													<svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -176,7 +176,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">AR / VR
+												<li><a href="404_fr.php">RV / RA
 													<svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -184,7 +184,7 @@ function myheader($title, $style1, $style2){
 														</g>
 													</svg>
 												</a></li>
-												<li><a href="404.php">Software maintenance
+												<li><a href="404_fr.php">Maintenance logiciel
 													<svg version="1.1" id="Layer_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 														 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 														<g>
@@ -195,13 +195,13 @@ function myheader($title, $style1, $style2){
 											</ul>
 										</li>
 										<li class="<?php echo $page5; ?>">
-											<a href="about.php">ABOUT US
+											<a href="about_fr.php">A PROPOS
 											<svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 												 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 											</svg>
 										</a></li>
 										<li class="<?php echo $page6; ?>">
-											<a href="contact.php">CONTACT
+											<a href="contact_fr.php">CONTACT
 											<svg version="1.1" id="Layer_16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 												 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
 											</svg>
@@ -226,8 +226,8 @@ function myheader($title, $style1, $style2){
 						<div class="row">
 							<div class="col">
 								<div class="menu_register_login_content d-flex flex-row align-items-center justify-content-end">
-									<div class="register"><a href="#" onclick="msg()">Register</a></div>
-									<div class="login"><a href="./yabaStore/index.php">Login</a></div>
+									<div class="register"><a href="#" onclick="msg()">S'ENREGISTRER</a></div>
+									<div class="login"><a href="./yabaStore/index_fr.php">SE CONNECTER</a></div>
 								</div>
 							</div>
 						</div>
@@ -239,7 +239,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="index.php">Home</a>
+									<a href="index_fr.php">ACCUEIL</a>
 								</div>
 							</div>
 						</div>
@@ -248,7 +248,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="news.php">News</a>
+									<a href="news_fr.php">INFOS</a>
 								</div>
 							</div>
 						</div>
@@ -257,7 +257,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="tech.php">Tech</a>
+									<a href="tech_fr.php">TECH</a>
 								</div>
 							</div>
 						</div>
@@ -266,7 +266,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="services.php">Services</a>
+									<a href="services_fr.php">SERVICES</a>
 								</div>
 							</div>
 						</div>
@@ -275,7 +275,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="about.php">About us</a>
+									<a href="about_fr.php">A PROPOS</a>
 								</div>
 							</div>
 						</div>
@@ -284,7 +284,7 @@ function myheader($title, $style1, $style2){
 						<div class="container">
 							<div class="row">
 								<div class="col">
-									<a href="contact.php">contact</a>
+									<a href="contact_fr.php">CONTACT</a>
 								</div>
 							</div>
 						</div>

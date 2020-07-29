@@ -1,7 +1,7 @@
 
 <?php
-include 'header.php';
-myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_styles.css">','<link rel="stylesheet" type="text/css" href="styles/responsive.css"><link rel="stylesheet" type="text/css" href="styles/services_responsive.css">');
+include 'header_fr.php';
+myheader("Accueil", '<link rel="stylesheet" type="text/css" href="styles/main_styles.css">','<link rel="stylesheet" type="text/css" href="styles/responsive.css"><link rel="stylesheet" type="text/css" href="styles/services_responsive.css">');
 ?>
 
 		<div class="home_slider_container">
@@ -14,9 +14,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="owl-item">
 					<div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
 					<div class="home_slider_content text-center">
-						<h1>A new Africa is coming</h1>
-						<div class="home_slider_text">Participate in the development of africa thanks to new technologies</div>
-						<div class="link_button home_slider_button"><a href="about.php">read more</a></div>
+						<h1>Une nouvelle Afrique arrive !</h1>
+						<div class="home_slider_text">Participer au développement de l'Afrique grâce aux nouvelles technologies</div>
+						<div class="link_button home_slider_button"><a href="about_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -24,9 +24,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="owl-item">
 					<div class="slider_background" style="background-image:url(images/home_slider_2.jpg)"></div>
 					<div class="home_slider_content text-center">
-						<h1>Promote research and innovation</h1>
-						<div class="home_slider_text">Promote the development of the African continent through research and innovation.</div>
-						<div class="link_button home_slider_button"><a href="about.php">read more</a></div>
+						<h1>Promouvoir la recherche et l'innovation.</h1>
+						<div class="home_slider_text">Promouvoir le développement du continent africain par la recherche et l'innovation.</div>
+						<div class="link_button home_slider_button"><a href="about_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -34,9 +34,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="owl-item">
 					<div class="slider_background" style="background-image:url(images/home_slider_3.jpg)"></div>
 					<div class="home_slider_content text-center">
-						<h1>With you!</h1>
-						<div class="home_slider_text">Always close to you, for the realization of your projects in terms of software support.</div>
-						<div class="link_button home_slider_button"><a href="about.php">read more</a></div>
+						<h1>Avec vous!</h1>
+						<div class="home_slider_text">Tout près de vous et avec vous, pour la réalisation de vos projets informatique.</div>
+						<div class="link_button home_slider_button"><a href="about_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -59,13 +59,13 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 					<div class="intro_content">
 						<div class="intro_title_container">
 							<h1 class="intro_title">Yaba-Innovation</h1>
-							<div class="intro_subtitle">Who are we?</div>
+							<div class="intro_subtitle">Qui sommes nous?</div>
 						</div>
 						<div class="intro_text">
-							<p>Yaba-In is a Cameroonian enterprize serving Africa and the whole world through the development of IT and innovative solutions to create value. Our teams are mainly composed of young competent, disciplined and passionate IT specialists. We also provide you with our vast network of partners in various fields.</p>
-							<p> We are based in the city of Bangangté, West Cameroon.</p>
+							<p>Yaba-In est une entreprise camerounaise au service de l'Afrique et du monde entier à travers le développement de solutions informatiques et innovantes pour créer de la valeur. Nos équipes sont principalement composées de jeunes informaticiens compétents, pluridisciplinaire et passionnés. Nous mettons également à votre disposition notre vaste réseau de partenaires dans divers domaines.</p>
+							<p>Nous sommes basés dans la ville de Bangangté, à l'ouest du Cameroun.</p>
 						</div>
-						<div class="link_button intro_button"><a href="about.php">read more</a></div>
+						<div class="link_button intro_button"><a href="about_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 			</div>
@@ -82,8 +82,8 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<div class="section_subtitle">Share with us</div>
-						<div class="section_title">OUR VISION</div>
+						<div class="section_subtitle">Partage avec nous</div>
+						<div class="section_title">NOTRE VISION</div>
 					</div>
 				</div>
 			</div>
@@ -93,9 +93,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="col-lg-4 info_col">
 					<div class="info_item text-center">
 						<div class="info_image"><img src="images/info_3.png" alt=""></div>
-						<div class="info_title">Boost the digital sector</div>
+						<div class="info_title">Promouvoir le secteur digital</div>
 						<div class="info_text">
-							<p>Bring digital solutions to improve needs.</p>
+							<p>Apporter des solutions numériques pour palier aux besoins.</p>
 						</div>
 					</div>
 				</div>
@@ -104,9 +104,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="col-lg-4 info_col">
 					<div class="info_item text-center">
 						<div class="info_image"><img src="images/info_2.png" alt=""></div>
-						<div class="info_title">Impact the world</div>
+						<div class="info_title">Avoir un impacte mondial</div>
 						<div class="info_text">
-							<p>To be inescapable in the worldwide</p>
+							<p>Être incontournable dans le monde</p>
 						</div>
 					</div>
 				</div>
@@ -115,9 +115,9 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="col-lg-4 info_col">
 					<div class="info_item text-center">
 						<div class="info_image"><img src="images/info_1.png" alt=""></div>
-						<div class="info_title">Create value</div>
+						<div class="info_title">Créer la plus-value</div>
 						<div class="info_text">
-							<p>Earn money</p>
+							<p>Gagner de l'argent.</p>
 						</div>
 					</div>
 				</div>
@@ -135,21 +135,21 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<div class="col-lg-5">
 					<div class="converter_content">
 						<div class="converter_title_container">
-							<div class="converter_subtitle">In the background</div>
-							<h1 class="converter_title">OUR TEAMS</h1>
+							<div class="converter_subtitle">En arrière-plan</div>
+							<h1 class="converter_title">NOTRE ÉQUIPE</h1>
 						</div>
 						<div class="converter_text">
-							<p>The competence of our teams and consultants on technologies according to international standards has earned us a first-rate partnership with companies who trust us by entrusting us with the management of their IT projects.</p>
+							<p>La compétence de nos équipes et consultants sur les technologies selon les standards internationaux nous a valu un partenariat de premier ordre avec des entreprises qui nous font confiance en nous confiant la gestion de leurs projets informatique.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-7">
 					<div class="converter_container">
 						<form action="#">
-							<a href="404.php"><input type="button" value="ANALYSIS / DESIGN" class="converter_input_value converter_input"></a>
-							<a href="404.php"><input type="button" value="SOFTWARE DEVELOPERS" class="converter_input_value converter_input"></a>
-							<a href="404.php"><input type="button" value="MAINTENANCE TEAM" class="converter_input_value converter_input"></a>
-							<a href="404.php"><input type="button" value="CONSULTANTS TEAM" class="converter_input_value converter_input"></a>
+							<a href="404_fr.php"><input type="button" value="ANALYSTES / CONCEPTEURS" class="converter_input_value converter_input"></a>
+							<a href="404_fr.php"><input type="button" value="DEVELOPPEURS" class="converter_input_value converter_input"></a>
+							<a href="404_fr.php"><input type="button" value="MAINTENANCIERS" class="converter_input_value converter_input"></a>
+							<a href="404_fr.php"><input type="button" value="CONSULTANTS" class="converter_input_value converter_input"></a>
 						</form>
 					</div>
 				</div>
@@ -164,8 +164,8 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<div class="section_subtitle">Benefit from</div>
-						<div class="section_title">OUR SERVICES</div>
+						<div class="section_subtitle">Bénéficiez de</div>
+						<div class="section_title">NOS SERVICES</div>
 					</div>
 				</div>
 			</div>
@@ -178,11 +178,11 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_1.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">ANALYSIS AND DESIGN</div>
+							<div class="news_title">ANALYSISE ET CONCEPTION</div>
 							<div class="news_text">
 							</div>
 						</div>
-						<div class="news_button"><a href="404.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -193,11 +193,11 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_2.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">WEB APPLICATIONS</div>
+							<div class="news_title">DÉVELOPPEMENT WEB</div>
 							<div class="news_text">
 							</div>
 						</div>
-						<div class="news_button"><a href="404.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -208,11 +208,11 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_3.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">DESKTOP APPLICATIONS</div>
+							<div class="news_title">DÉVELOPPEMENT DESKTOP</div>
 							<div class="news_text">
 							</div>
 						</div>
-						<div class="news_button"><a href="404.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -223,11 +223,11 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_4.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">MOBILE APPLICATIONS</div>
+							<div class="news_title">DÉVELOPPEMENT MOBILE</div>
 							<div class="news_text">
 							</div>
 						</div>
-						<div class="news_button"><a href="404.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -238,11 +238,11 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_5.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">ERP SOLUTIONS</div>
+							<div class="news_title">SOLUTIONS PGI</div>
 							<div class="news_text">
 							</div>
 						</div>
-						<div class="news_button"><a href="404.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -253,11 +253,11 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 							<img src="images/news_6.jpg" alt="https://unsplash.com/@silverhousehd">
 						</div>
 						<div class="news_content">
-							<div class="news_title">SOFTWARE SOLUTIONS</div>
+							<div class="news_title">MAINTENANCE LOGICIEL</div>
 							<div class="news_text">
 							</div>
 						</div>
-						<div class="news_button"><a href="404.php">read more</a></div>
+						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 				</div>
 
@@ -287,8 +287,8 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 									<div class="services_icon"></div>
 									<div class="services_icon"></div>
 									<div class="services_title"><font color="white">Flambel SANOU</font></div>
-									<p class="services_text"><font color="white">Founder / CEO / Chief Technical Officer</font></p>
-									<div class="services_link"><a target="_blank" href="https://www.linkedin.com/in/flambel-junior-sanou-ku%C3%A9-852703175/"><font color="white">Read More</font></a></div>
+									<p class="services_text"><font color="white">Fondateur / CEO / Chef Technique</font></p>
+									<div class="services_link"><a target="_blank" href="https://www.linkedin.com/in/flambel-junior-sanou-ku%C3%A9-852703175/"><font color="white">Lire plus</font></a></div>
 								</div>
 							</div>
 
@@ -299,8 +299,8 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 									<div class="services_icon"></div>
 									<div class="services_icon"></div>
 									<div class="services_title"><font color="white">Cédric NGUENDAP</font></div>
-									<p class="services_text"><font color="white">Co-Founder / Software developer</font></p>
-									<div class="services_link"><a target="_blank" href="https://www.linkedin.com/in/cedric-nguendap-143544175/"><font color="white">Read More</font></a></div>
+									<p class="services_text"><font color="white">Co-Fondateur / Developpeur</font></p>
+									<div class="services_link"><a target="_blank" href="https://www.linkedin.com/in/cedric-nguendap-143544175/"><font color="white">Lire plus</font></a></div>
 								</div>
 							</div>
 
@@ -311,8 +311,8 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 									<div class="services_icon"></div>
 									<div class="services_icon"></div>
 									<div class="services_title"><font color="white">Benjamin NGONGANG</font></div>
-									<p class="services_text"><a hre="http://obotama.com/en/"><font color="white">O'Botama</a> Mentor / Consultant</font></p>
-									<div class="services_link"><a target="_blank" href="https://www.apollo.io/people/Benjamin/Ngongang/54a2f6927468693a7e75624a?__cf_chl_jschl_tk__=10bf38f4c1271c3dcf73180f27959f2e141302d0-1594733139-0-AS2DXkQ2nT6Myd06pSK_t2DqPOS0RaUJFQibF-ECDxpWPE3OnYFNm9RdSTG99-GC8gT13qwHyDN4VNbrgGO4I-_xpvY4c1pF8HrXOYPR7vxcAXllULag_i9Py8iYnXmALvKEqfXQ3Ik1_w_uWAoJYroQaXRaHDO3K6htWhSyvxp_MtlfwwQ22ZEFoLzNasd3JVLR4QxCsItw6-7y3NR0z3qOPdTrLodQWdMhodR-WYDuVHJAUTpaOAcdSxpsuw05gfJzqnEPXv1xdqiNlPYVxaITkmvE9epjqvlT9p8ZiWHowsP56l5SnMoN1LrfMZqFQs9n0qgl67lF2XRTAubf2erHpK78TXbvRyVd7zctfXusjmEHUCNAQlW1Kz4qj_FcB_046Kqg0QqpMm5kr1UbhD8"><font color="white">Read More</font></a></div>
+									<p class="services_text"><a hre="http://obotama.com/en/"><font color="white">Mentor O'Botama</a> / Consultant</font></p>
+									<div class="services_link"><a target="_blank" href="https://www.apollo.io/people/Benjamin/Ngongang/54a2f6927468693a7e75624a?__cf_chl_jschl_tk__=10bf38f4c1271c3dcf73180f27959f2e141302d0-1594733139-0-AS2DXkQ2nT6Myd06pSK_t2DqPOS0RaUJFQibF-ECDxpWPE3OnYFNm9RdSTG99-GC8gT13qwHyDN4VNbrgGO4I-_xpvY4c1pF8HrXOYPR7vxcAXllULag_i9Py8iYnXmALvKEqfXQ3Ik1_w_uWAoJYroQaXRaHDO3K6htWhSyvxp_MtlfwwQ22ZEFoLzNasd3JVLR4QxCsItw6-7y3NR0z3qOPdTrLodQWdMhodR-WYDuVHJAUTpaOAcdSxpsuw05gfJzqnEPXv1xdqiNlPYVxaITkmvE9epjqvlT9p8ZiWHowsP56l5SnMoN1LrfMZqFQs9n0qgl67lF2XRTAubf2erHpK78TXbvRyVd7zctfXusjmEHUCNAQlW1Kz4qj_FcB_046Kqg0QqpMm5kr1UbhD8"><font color="white">Lire plus</font></a></div>
 								</div>
 							</div>
 
@@ -324,7 +324,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 									<div class="services_icon"></div>
 									<div class="services_title"><font color="white">Dilan TAKOUBO</font></div>
 									<p class="services_text"><font color="white">Software developer</font></p>
-									<div class="services_link"><a href="404.php"><font color="white">Read More</font></a></div>
+									<div class="services_link"><a href="404_fr.php"><font color="white">Lire plus</font></a></div>
 								</div>
 							</div>
 
@@ -354,36 +354,36 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 						<div class="logo_container footer_logo">
 							<div class="logo">
 								<a href="#">
-									<div class="logo_line_1">Yaba<span>In</span></div>
-									<div class="logo_line_2">Already running.</div>
+									<div class="logo_line_1">Yaba-<span>In</span></div>
+									<div class="logo_line_2">Déjà en marche.</div>
 									<div class="logo_img"><img src="images/logo_2.png" alt=""></div>
 								</a>
 							</div>
 						</div>
-						<p class="footer_about_text">Let's build the future of tomorrow, starting today.</p>
+						<p class="footer_about_text">Construisons l'avenir de demain, dès aujourd'hui.</p>
 					</div>
 				</div>
 
 				<!-- Footer Column -->
 				<div class="col-lg-3 footer_col">
 					<div class="footer_links">
-						<div class="footer_title">Useful Links</div>
+						<div class="footer_title">Liens utiles</div>
 						<ul>
-							<li><a href="index.php">Home</a></li>
-							<li><a href="news.php">News</a></li>
-							<li><a href="tech.php">Tech</a></li>
-							<li><a href="services.php">Services</a></li>
-							<li><a href="about.php">About us</a></li>
-							<li><a href="contact.php">Contact</a></li>
+							<li><a href="index_fr.php">Accueil</a></li>
+							<li><a href="news_fr.php">Infos</a></li>
+							<li><a href="tech_fr.php">Tech</a></li>
+							<li><a href="services_fr.php">Services</a></li>
+							<li><a href="about_fr.php">A propos</a></li>
+							<li><a href="contact_fr.php">Contact</a></li>
 							<li><a href="">...........</a></li>
 							<li><a href="">...........</a></li>
-							<li><a href="analysis.php">Analysis and design</a></li>
-							<li><a href="web.php">Web solutions</a></li>
-							<li><a href="descktop.php">Desktop solutions</a></li>
-							<li><a href="mobile.php">Mobile app</a></li>
-							<li><a href="erp.php">ERP solmutions</a></li>
-							<li><a href="arvr.php">AR / VR</a></li>
-							<li><a href="software.php">Software maintenance</a></li>
+							<li><a href="analysis_fr.php">Analyse / Conception</a></li>
+							<li><a href="web_fr.php">Développement web</a></li>
+							<li><a href="descktop_fr.php">Développement desktop</a></li>
+							<li><a href="mobile_fr.php">Développement mobile</a></li>
+							<li><a href="erp_fr.php">ERP solmutions</a></li>
+							<li><a href="arvr_fr.php">AR / VR</a></li>
+							<li><a href="software_fr.php">Maintenance logiciel</a></li>
 						</ul>
 					</div>
 				</div>
@@ -391,12 +391,12 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 				<!-- Footer Column -->
 				<div class="col-lg-6 footer_col">
 					<div class="footer_newsletter">
-						<div class="footer_title">Subscribe to our newsletter</div>
+						<div class="footer_title">Abonnez-vous à notre newsletter</div>
 						<form action="#" class="footer_newsletter_form">
-							<input type="email" class="footer_newsletter_input" placeholder="Your E-mail" required="required">
-							<button class="footer_newsletter_button" type="submit">subscribe</button>
+							<input type="email" class="footer_newsletter_input" placeholder="Votre E-mail" required="required">
+							<button class="footer_newsletter_button" type="submit">souscrire</button>
 						</form>
-						<div class="footer_newsletter_text">Be informed in real time of new innovation initiatives.</div>
+						<div class="footer_newsletter_text">Soyez informé en temps réel des nouvelles initiatives d'innovation.</div>
 						<div class="footer_social">
 							<ul>
 								<li><a target="_blank" href="https://www.facebook.com/YabaInnovation"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -418,7 +418,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 					<div class="col-md-4 order-md-1 order-2">
 						<div class="copyright_content d-flex flex-row align-items-center justify-content-start">
 							<div class="cr">
-&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made by Yaba-In</div>
+&copy;<script>document.write(new Date().getFullYear());</script> Tous droits réservés | Par Yaba-In</div>
 						</div>
 						</div>
 					</div>
