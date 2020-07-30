@@ -15,7 +15,7 @@ myheader("Accueil", '<link rel="stylesheet" type="text/css" href="styles/main_st
 					<div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
 					<div class="home_slider_content text-center">
 						<h1>Une nouvelle Afrique arrive !</h1>
-						<div class="home_slider_text">Participer au développement de l'Afrique grâce aux nouvelles technologies</div>
+						<div class="home_slider_text">Participer au développement de l'Afrique grâce aux nouvelles technologies.</div>
 						<div class="link_button home_slider_button"><a href="about_fr.php">Lire plus</a></div>
 					</div>
 				</div>

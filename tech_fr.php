@@ -1,5 +1,5 @@
 <?php
-include 'header.php';
+include 'header_fr.php';
 myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.css">', '<link rel="stylesheet" type="text/css" href="styles/elements_responsive.css">');
 ?>
 		<div class="home_background parallax-window" data-parallax="scroll" data-image-src="images/elements.jpg" data-speed="0.8"></div>
@@ -11,7 +11,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 							<div class="home_title">Technologies</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="index.php">Home</a></li>
+									<li><a href="index_fr.php">Accueil</a></li>
 									<li>Tech</li>
 								</ul>
 							</div>
@@ -27,8 +27,8 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container">
-						<div class="section_subtitle">take a look at our</div>
-						<div class="section_title">SKILLS</div>
+						<div class="section_subtitle">Prenez connaissance de nos</div>
+						<div class="section_title">COMPÉTENCES</div>
 					</div>
 				</div>
 			</div>
@@ -161,6 +161,6 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 
 	<br /><br /><br /><br />
 <?php
-include 'footer.php';
+include 'footer_fr.php';
 footer('</script><script src="plugins/greensock/TweenMax.min.js"></script><script src="plugins/greensock/TimelineMax.min.js"></script><script src="plugins/scrollmagic/ScrollMagic.min.js"></script><script src="plugins/greensock/animation.gsap.min.js"></script><script src="plugins/greensock/ScrollToPlugin.min.js"></script><script src="plugins/progressbar/progressbar.min.js"></script><script src="js/elements_custom.js"></script>');
 ?>
