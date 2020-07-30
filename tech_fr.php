@@ -27,7 +27,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container">
-						<div class="section_subtitle">Prenez connaissance de nos</div>
+						<div class="section_subtitle">Un regard sur nos</div>
 						<div class="section_title">COMPÉTENCES</div>
 					</div>
 				</div>
@@ -47,7 +47,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.73"><span>C++</span></div>
+					<div class="loader" data-perc="0.73"><span>C / C++</span></div>
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
@@ -79,7 +79,31 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.90"><span>UML</span></div>
+					<div class="loader" data-perc="0.90"><span>UML</span></div><br /><br />
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.80"><span>REACT</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.80"><span>NODEJS</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.95"><span>JAVASCRIPT</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.60"><span>QT</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.80"><span>JAVA FX</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.60"><span>LUA</span></div>
 			</div>
 		</div>
 	</div>
@@ -91,7 +115,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container">
-						<div class="section_subtitle">take a look at our</div>
+						<div class="section_subtitle">Prenez connaissance de notre</div>
 						<div class="section_title">PRODUCTION</div>
 					</div>
 				</div>
@@ -103,8 +127,8 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 					<div class="milestone">
 						<div class="milestone_counter" data-end-value="3">0</div>
 						<div class="milestone_content">
-							<div class="milestone_title">Odoo 10 projects</div>
-							<div class="milestone_subtitle">Implementation modules.</div>
+							<div class="milestone_title">Projets sur Odoo 10</div>
+							<div class="milestone_subtitle">Implementation de modules.</div>
 						</div>
 					</div>
 				</div>
@@ -114,8 +138,8 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 					<div class="milestone">
 						<div class="milestone_counter" data-end-value="9">0</div>
 						<div class="milestone_content">
-							<div class="milestone_title">Web solutions</div>
-							<div class="milestone_subtitle">for particular and enterprises.</div>
+							<div class="milestone_title">solutions web</div>
+							<div class="milestone_subtitle">pour entreprises et particuliers.</div>
 						</div>
 					</div>
 				</div>
@@ -125,8 +149,8 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 					<div class="milestone">
 						<div class="milestone_counter" data-end-value="6">0</div>
 						<div class="milestone_content">
-							<div class="milestone_title">Desktop solutions</div>
-							<div class="milestone_subtitle">on Microsoft Windows.</div>
+							<div class="milestone_title">solutions desktop</div>
+							<div class="milestone_subtitle">pour systèmes Windows.</div>
 						</div>
 					</div>
 				</div>
@@ -136,8 +160,8 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 					<div class="milestone">
 						<div class="milestone_counter" data-end-value="2">0</div>
 						<div class="milestone_content">
-							<div class="milestone_title">Mobiles app</div>
-							<div class="milestone_subtitle">on Android.</div>
+							<div class="milestone_title">applications mobiles</div>
+							<div class="milestone_subtitle">pour systèmes Android.</div>
 						</div>
 					</div>
 				</div>
@@ -149,7 +173,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 				<div class="col-lg-3 milestone_col">
 					<div class="milestone">
 						<div class="milestone_content">
-							<div class="milestone_title">And so on...</div>
+							<div class="milestone_subtitle">Et bien plus...</div>
 						</div>
 					</div>
 				</div>

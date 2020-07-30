@@ -66,7 +66,7 @@ function footer($jScript){
 					<div class="footer_newsletter">
 						<div class="footer_title">Abonnez-vous à notre newsletter</div>
 						<form action="#" class="footer_newsletter_form">
-							<input type="email" class="footer_newsletter_input" placeholder="Your E-mail" required="required">
+							<input type="email" class="footer_newsletter_input" placeholder="Votre E-mail" required="required">
 							<button class="footer_newsletter_button" type="submit">souscrire</button>
 						</form>
 						<div class="footer_newsletter_text">Soyez informé en temps réel des nouvelles initiatives d'innovation.</div>

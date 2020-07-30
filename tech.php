@@ -79,7 +79,31 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.90"><span>UML</span></div>
+					<div class="loader" data-perc="0.90"><span>UML</span></div></div><br /><br />
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.80"><span>REACT</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.80"><span>NODEJS</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.95"><span>JAVASCRIPT</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.60"><span>QT</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.80"><span>JAVA FX</span></div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
+					<!-- Loader -->
+					<div class="loader" data-perc="0.60"><span>LUA</span></div>
 			</div>
 		</div>
 	</div>
@@ -92,7 +116,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 				<div class="col">
 					<div class="section_title_container">
 						<div class="section_subtitle">take a look at our</div>
-						<div class="section_title">PRODUCTION</div>
+						<div class="section_title">PRODUCTIONS</div>
 					</div>
 				</div>
 			</div>

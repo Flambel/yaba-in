@@ -93,6 +93,10 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 		
 	<div class="map">
 		<div id="google_map" class="google_map">
+			<div class="section_title_container">
+				<div class="section_subtitle"></div>
+				<div class="section_title">Map location</div>
+			</div><br />
 			<div class="map_container">
 				<?php
 				include './new/map.php';
