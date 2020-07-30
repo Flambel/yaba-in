@@ -11,7 +11,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 							<div class="home_title">Services</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="index.php">Home</a></li>
+									<li><a href="index.php">Accueil</a></li>
 									<li>Services</li>
 								</ul>
 							</div>
@@ -27,7 +27,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container">
-						<div class="section_subtitle">take a look at our</div>
+						<div class="section_subtitle">Nos</div>
 						<div class="section_title">SERVICES</div>
 					</div>
 				</div>
@@ -44,54 +44,54 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 				<div class="col d-flex flex-row flex-wrap align-items-start justify-content-start">
 					<!-- Service -->
 					<div class="service">
-						<div class="service_title">ANALYSIS AND DESIGN</div>
+						<div class="service_title">ANALYSE / CONCEPTION</div>
 						<div class="service_text">
-							<p>We focus on investigating the problem to be solved and conceptual software solution that meets your requirements through the description of models, database schemas and software objects.</p>
+							<p>Nous mettons un point d'honneur sur l'étude du problème à résoudre et la solution logicielle conceptuelle qui répond à vos exigences à travers la description de modèles, de schémas de bases de données et d'objets logiciels.</p>
+						</div>
+						<div class="service_link"><a href="404.php">Lire plus</a></div>
+					</div>
+
+					<!-- Service -->
+					<div class="service">
+						<div class="service_title">SOLLUTIONS WEB</div>
+						<div class="service_text">
+							<p>Nous avons une équipe de web design, développeurs backend, frontend et fullstack avec de nombreuses réalisations à leur actif, pour un service de meilleure qualité.<br /><br /><br /></p>
+						</div>
+						<div class="service_link"><a href="404.php">Lire plus</a></div>
+					</div>
+
+					<!-- Service -->
+					<div class="service">
+						<div class="service_title">SOLUTIONS DESKTOP</div>
+						<div class="service_text">
+							<p>Nous avons une grande expérience dans le développement de solutions Windows de bureau. Cependant, nous proposons des solutions basées sur le noyau linux.<br /><br /><br /></p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_title">WEB APPLICATIONS</div>
+						<div class="service_title">APPLICATIONS MOBILE</div>
 						<div class="service_text">
-							<p>We have a web design, backend, frontend and fullstack developer team with many achievements to their credit, for a better quality service.<br /><br /><br /></p>
+							<p>La mobilité est un facteur très important dans le monde numérique. En conséquence, nous réalisons des applications utilisables sur les appareils mobiles pour une expérience plus accessible.<br /><br /><br /></p>
 						</div>
-						<div class="service_link"><a href="404.php">Read More</a></div>
+						<div class="service_link"><a href="404.php">Lire plus</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_title">DESKTOP APPLICATIONS</div>
+						<div class="service_title">SOLUTIONS PGI</div>
 						<div class="service_text">
-							<p>We have extensive experience in the development of desktop Windows solutions. However, we offer solutions based on the linux kernel.<br /><br /><br /></p>
+							<p>Réalisation de modules pour progiciel de gestion intégré Odoo. Installez et configurez vos solutions pour gérer tous les processus de votre entreprise en intégrant toutes ses fonctions.</p>
 						</div>
-						<div class="service_link"><a href="404.php">Read More</a></div>
+						<div class="service_link"><a href="404.php">Lire plus</a></div>
 					</div>
 
 					<!-- Service -->
 					<div class="service">
-						<div class="service_title">MOBILE APPLICATIONS</div>
+						<div class="service_title">MAINTENANCE LOGICIEL</div>
 						<div class="service_text">
-							<p>Mobility is a very important factor in the digital world. As a result, we make applications usable on mobile devices for a more accessible experience.<br /><br /><br /></p>
-						</div>
-						<div class="service_link"><a href="404.php">Read More</a></div>
-					</div>
-
-					<!-- Service -->
-					<div class="service">
-						<div class="service_title">ERP SOLUTIONS</div>
-						<div class="service_text">
-							<p>Realization of Enterprise resource planning modules on Odoo. Install and configure your solutions to manage all the processes of your company by integrating all of its functions..</p>
-						</div>
-						<div class="service_link"><a href="404.php">Read More</a></div>
-					</div>
-
-					<!-- Service -->
-					<div class="service">
-						<div class="service_title">SOFTWARE SOLUTIONS</div>
-						<div class="service_text">
-							<p>Corrective and scalable maintenance for the support and correction of problems related to devices, upgrading of software to optimize their performance (correction, update, addition of extensions ...) including network management.</p>
+							<p>Maintenance corrective et évolutive, support des problèmes liés aux appareils, mise à niveau des logiciels pour optimiser leurs performances (correction, mise à jour, ajout d'extensions ...) y compris la gestion du réseau.</p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
@@ -114,7 +114,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 					<div class="call_container">
 						<div class="section_title_container">
 							<div class="section_subtitle">.</div>
-							<div class="section_title">Contact us immediately</div>
+							<div class="section_title">Contactez nous immédiatement</div>
 						</div>
 						<div class="call_form_container">
 							<form action="#" class="call_form">
@@ -130,13 +130,13 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 									</div>
 									<div class="col-md-6">
 										<select class="dropdown_item input_item">
-											<option>Customer type</option>
-											<option>Business type</option>
-											<option>Other type</option>
+											<option>Individuel</option>
+											<option>Entreprise</option>
+											<option>Autre</option>
 										</select>
 									</div>
 									<div class="col-md-12">
-										<button id="call_btn" type="submit" class="call_button trans_200" value="Submit">submit</button>
+										<button id="call_btn" type="submit" class="call_button trans_200" value="Submit">Soumettre</button>
 									</div>
 								</div>
 							</form>

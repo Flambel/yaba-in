@@ -82,7 +82,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 					<div class="service">
 						<div class="service_title">ERP SOLUTIONS</div>
 						<div class="service_text">
-							<p>Realization of Enterprise resource planning modules on Odoo. Install and configurate your solutions to manage all the processes of your company by integrating all of its functions..</p>
+							<p>Realization of Enterprise resource planning modules on Odoo. Install and configurate your solutions to manage all the processes of your company by integrating all of its functions.</p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>
