@@ -79,6 +79,7 @@ function myheader($title, $style1, $style2){
 											<li><a add target="_blank" href="https://www.twitter.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 										</ul>
 									</div>
+									<a href="index_fr.php"><font color="white">Fr <img src="images/fr.jpg"> .</font></a>
 									<div class="register_login">
 										<script>
 										function msg() {
