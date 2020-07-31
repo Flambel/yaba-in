@@ -136,7 +136,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">SDK Games Africa, based in South Africa with offices in Cameroon, is dedicated to afro-centric mobiles and social games with the mission of providing the best African Gaming Experience using innovative technologies (Augmented Reality, Virtual Reality and based on African contents (culture, history, tales).</div>
+										<div class="testimonial_text">SDK Games Africa, based in South Africa with offices in Cameroon, is dedicated to afro-centric mobiles and social games with the mission of providing the best African Gaming Experience using innovative technologies (Augmented Reality, Virtual Reality) based on African contents (culture, history, tales).</div>
 										<div class="testimonial_author">
 											<div class="testimonial_image"><img src="images/sdkLogo.png" alt=""></div>
 											<div class="testimonial_content">
@@ -164,7 +164,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">CCLT is a company based in Bangangté in west Cameroon which offers software hardware maintenance services while providing support for all its customers. It also offers training in both general IT and specific technologies.</div>
+										<div class="testimonial_text">CCLT is a company based in Bangangté in west Cameroon which offers software and hardware maintenance services while providing support for all its customers. It also offers training in both general IT and specific technologies.</div>
 										<div class="testimonial_author">
 											<div class="testimonial_image"><img src="images/cclt.jpg" alt=""></div>
 											<div class="testimonial_content">

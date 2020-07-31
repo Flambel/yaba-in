@@ -88,15 +88,15 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 							<div class="accordion_container">
 								<div class="accordion d-flex flex-row align-items-center"><div>De l'innovation</div></div>
 								<div class="accordion_panel">
-									<p>We make it a priority to research, design and implement innovative, cost-effective projects because we believe that it is largely through innovation that the economic value of a region can be enhanced.</p>
+									<p>Nous mettons un point d'honneur à la recherche, la conception et la mise en œuvre de projets innovants et rentables, car nous pensons que c'est en grande partie grâce à l'innovation que la valeur économique d'une région peut être améliorée.</p>
 								</div>
 							</div>
 
 							<div class="accordion_container">
 								<div class="accordion d-flex flex-row align-items-center"><div>About formations</div></div>
 								<div class="accordion_panel">
-									<p>The effectiveness of training in the growth of the company is well established. The results of training are concrete and measurable in terms of both productivity and the professional development of the staff. Although we carefully screen our teams, training within the company itself will allow them to have the same vision and move in the same direction. The company will be able to dictate the objective and the strategy to achieve it. The know-how of our employees cannot be questioned since they have been trained by experienced professionals. Productivity geared towards innovation also requires up-to-date skills with new technologies and a high level of motivation from the team.</p>
-									<p>However, we also offer training courses within the availability of our catalogue.</p>
+									<p>L'efficacité de la formation continue dans la croissance de l'entreprise n'est plus à démontrer. Les résultats de la formation sont concrets et mesurables tant en termes de productivité que de développement professionnel du personnel. Bien que nous sélectionnions soigneusement nos équipes, la formation au sein même de l'entreprise leur permettra d'avoir la même vision et d'aller dans le même train. L'entreprise sera en mesure de pointer vèrs l'objectif et la stratégie pour y parvenir. Le savoir-faire de nos collaborateurs ne peut être remis en cause car ils ont été formés par des professionnels expérimentés. Une productivité orientée vers l'innovation nécessite également des compétences à jour avec les nouvelles technologies et une forte motivation de l'équipe.</p>
+									<p>Cependant, nous proposons également des formations dans la limite de la disponibilité de notre catalogue.</p>
 								</div>
 							</div>
 
@@ -112,7 +112,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 					<div class="testimonials">
 						<div class="section_title_container">
 							<div class="section_subtitle"></div>
-							<div class="section_title">They trusted us</div>
+							<div class="section_title">Ils nous ont fait confiance</div>
 						</div>
 
 						<div class="test_slider_container">
@@ -121,7 +121,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">Groupe SIA is a SARL (limited liability company), with its head office located in Yaoundé, and a secondary head office located in Equatorial Guinea. It’s a company that is close to the big companies of the world. As such, the SIA GROUP is the competence center of the publishers SAGE and TOMATE. To this end, she is responsible for marketing SAGE accounting software.</div>
+										<div class="testimonial_text">Groupe SIA est une SARL (société à responsabilité limitée), dont le siège social est situé à Yaoundé, et un siège secondaire situé en Guinée équatoriale. C’est une entreprise proche des grandes entreprises du monde. A ce titre, le Groupe SIA est le centre de compétence des éditeurs SAGE et TOMATE. À cette fin, elle est responsable de la commercialisation du logiciel comptable SAGE.</div>
 										<div class="testimonial_author">
 											<div class="testimonial_image"><img src="images/logosia.png" alt=""></div>
 											<div class="testimonial_content">
@@ -135,7 +135,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">SDK Games Africa, based in South Africa with offices in Cameroon, is dedicated to afro-centric mobiles and social games with the mission of providing the best African Gaming Experience using innovative technologies (Augmented Reality, Virtual Reality and based on African contents (culture, history, tales).</div>
+										<div class="testimonial_text">SDK Games Africa, basé en Afrique du Sud avec des bureaux au Cameroun, se consacre aux application mobiles afrocentriques et aux jeux sociaux avec la mission de fournir la meilleure expérience de jeu africaine en utilisant des technologies innovantes (réalité augmentée, réalité virtuelle) basées sur des contenus africains (culture, histoire, contes).</div>
 										<div class="testimonial_author">
 											<div class="testimonial_image"><img src="images/sdkLogo.png" alt=""></div>
 											<div class="testimonial_content">
@@ -149,7 +149,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">Since its creation, TonkaIn has been the specialist and one of the champions of the development of embedded systems, software engineering and artificial intelligence in Africa.TonkaIn's mission is to give African engineers the means to innovate and be the force behind the new technologies and applications of tomorrow.</div>
+										<div class="testimonial_text">Depuis sa création, TonkaIn est le spécialiste et l'un des champions du développement des systèmes embarqués, du génie logiciel et de l'intelligence artificielle en Afrique.La mission de TonkaIn est de donner aux ingénieurs africains les moyens d'innover et d'être la force derrière les nouvelles technologies et applications. de demain.</div>
 										<div class="testimonial_author">
 											<div class="testimonial_image"><img src="images/tonka-in.jpg" alt=""></div>
 											<div class="testimonial_content">
@@ -163,7 +163,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 								<!-- Testimonial -->
 								<div class="owl-item">
 									<div class="testimonial">
-										<div class="testimonial_text">CCLT is a company based in Bangangté in western Cameroon which offers software hardware maintenance services while providing support for all its customers. It also offers training in both general IT and specific technologies.</div>
+										<div class="testimonial_text">CCLT est une entreprise basée à Bangangté dans l'ouest du Cameroun qui propose des services de maintenance matérielle et logicielle tout en accompagnant l'ensemble de ses clients. Elle propose également des formations tant bien en informatique générale que dans des technologies spécifiques.</div>
 										<div class="testimonial_author">
 											<div class="testimonial_image"><img src="images/cclt.jpg" alt=""></div>
 											<div class="testimonial_content">

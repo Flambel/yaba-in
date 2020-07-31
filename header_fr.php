@@ -87,7 +87,7 @@ function myheader($title, $style1, $style2){
 										}
 										</script>
 										<div class="register"><a href="#" onclick="msg()">S'enregistrer</a></div>
-										<div class="login"><a href="yabaStore/index_fr.php">Se connecter</a></div>
+										<div class="login"><a href="404_fr.php">Se connecter</a></div>
 									</div>
 								</div>
 								<div class="burger">
