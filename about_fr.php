@@ -1,6 +1,6 @@
 <?php
 include 'header_fr.php';
-myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css">','<link rel="stylesheet" type="text/css" href="styles/about_responsive.css">');
+myheader("A propos", '<link rel="stylesheet" type="text/css" href="styles/about.css">','<link rel="stylesheet" type="text/css" href="styles/about_responsive.css">');
 ?>
 
 		<div class="home_background parallax-window" data-parallax="scroll" data-image-src="images/about.jpg" data-speed="0.8"></div>
@@ -93,7 +93,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 							</div>
 
 							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center"><div>About formations</div></div>
+								<div class="accordion d-flex flex-row align-items-center"><div>Des formations</div></div>
 								<div class="accordion_panel">
 									<p>L'efficacité de la formation continue dans la croissance de l'entreprise n'est plus à démontrer. Les résultats de la formation sont concrets et mesurables tant en termes de productivité que de développement professionnel du personnel. Bien que nous sélectionnions soigneusement nos équipes, la formation au sein même de l'entreprise leur permettra d'avoir la même vision et d'aller dans le même train. L'entreprise sera en mesure de pointer vèrs l'objectif et la stratégie pour y parvenir. Le savoir-faire de nos collaborateurs ne peut être remis en cause car ils ont été formés par des professionnels expérimentés. Une productivité orientée vers l'innovation nécessite également des compétences à jour avec les nouvelles technologies et une forte motivation de l'équipe.</p>
 									<p>Cependant, nous proposons également des formations dans la limite de la disponibilité de notre catalogue.</p>
@@ -112,7 +112,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 					<div class="testimonials">
 						<div class="section_title_container">
 							<div class="section_subtitle"></div>
-							<div class="section_title">Ils nous ont fait confiance</div>
+							<div class="section_title">Ils nous ont fait confiance.</div>
 						</div>
 
 						<div class="test_slider_container">
