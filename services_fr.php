@@ -1,5 +1,5 @@
 <?php
-include 'header.php';
+include 'header_fr.php';
 myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/services.css">','<link rel="stylesheet" type="text/css" href="styles/services_responsive.css">');
 ?>
 		<div class="home_background parallax-window" data-parallax="scroll" data-image-src="images/services_background.jpg" data-speed="0.8"></div>
@@ -11,7 +11,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 							<div class="home_title">Services</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="index.php">Accueil</a></li>
+									<li><a href="index_fr.php">Accueil</a></li>
 									<li>Services</li>
 								</ul>
 							</div>
@@ -48,7 +48,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Nous mettons un point d'honneur sur l'étude du problème à résoudre et la solution logicielle conceptuelle qui répond à vos exigences à travers la description de modèles, de schémas de bases de données et d'objets logiciels.</p>
 						</div>
-						<div class="service_link"><a href="404.php">Lire plus</a></div>
+						<div class="service_link"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 
 					<!-- Service -->
@@ -57,7 +57,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Nous avons une équipe de web design, développeurs backend, frontend et fullstack avec de nombreuses réalisations à leur actif, pour un service de meilleure qualité.<br /><br /><br /></p>
 						</div>
-						<div class="service_link"><a href="404.php">Lire plus</a></div>
+						<div class="service_link"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 
 					<!-- Service -->
@@ -66,7 +66,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Nous avons une grande expérience dans le développement de solutions Windows de bureau. Cependant, nous proposons des solutions basées sur le noyau linux.<br /><br /><br /></p>
 						</div>
-						<div class="service_link"><a href="404.php">Read More</a></div>
+						<div class="service_link"><a href="404_fr.php">Read More</a></div>
 					</div>
 
 					<!-- Service -->
@@ -75,7 +75,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>La mobilité est un facteur très important dans le monde numérique. En conséquence, nous réalisons des applications utilisables sur les appareils mobiles pour une expérience plus accessible.<br /><br /><br /></p>
 						</div>
-						<div class="service_link"><a href="404.php">Lire plus</a></div>
+						<div class="service_link"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 
 					<!-- Service -->
@@ -84,7 +84,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Réalisation de modules pour progiciel de gestion intégré Odoo. Installez et configurez vos solutions pour gérer tous les processus de votre entreprise en intégrant toutes ses fonctions.</p>
 						</div>
-						<div class="service_link"><a href="404.php">Lire plus</a></div>
+						<div class="service_link"><a href="404_fr.php">Lire plus</a></div>
 					</div>
 
 					<!-- Service -->
@@ -93,7 +93,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 						<div class="service_text">
 							<p>Maintenance corrective et évolutive, support des problèmes liés aux appareils, mise à niveau des logiciels pour optimiser leurs performances (correction, mise à jour, ajout d'extensions ...) y compris la gestion du réseau.</p>
 						</div>
-						<div class="service_link"><a href="404.php">Read More</a></div>
+						<div class="service_link"><a href="404_fr.php">Read More</a></div>
 					</div>
 
 				</div>
@@ -120,13 +120,13 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 							<form action="#" class="call_form">
 								<div class="row">
 									<div class="col-md-6">
-										<input type="text" class="input_item" placeholder="Your Name" required="required">
+										<input type="text" class="input_item" placeholder="Nom" required="required">
 									</div>
 									<div class="col-md-6">
-										<input type="email" class="input_item" placeholder="Your E-mail" required="required">
+										<input type="email" class="input_item" placeholder="E-mail" required="required">
 									</div>
 									<div class="col-md-6">
-										<input type="text" class="input_item" placeholder="Your Phone">
+										<input type="text" class="input_item" placeholder="Téléphone">
 									</div>
 									<div class="col-md-6">
 										<select class="dropdown_item input_item">
@@ -148,7 +148,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 	</div>
 	<!-- Footer -->
 <?php
-include 'footer.php';
+include 'footer_fr.php';
 footer('
 <script src="plugins/greensock/TweenMax.min.js"></script>
 <script src="plugins/greensock/TimelineMax.min.js"></script>
