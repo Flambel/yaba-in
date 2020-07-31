@@ -1,5 +1,5 @@
 <?php
-include 'header.php';
+include 'header_fr.php';
 myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css">','<link rel="stylesheet" type="text/css" href="styles/about_responsive.css">');
 ?>
 
@@ -9,11 +9,11 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 				<div class="col">
 					<div class="home_content">
 						<div class="home_content_inner">
-							<div class="home_title">About us</div>
+							<div class="home_title">A propos</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="index.php">Home</a></li>
-									<li>About us</li>
+									<li><a href="index_fr.php">Accueil</a></li>
+									<li>A propos</li>
 								</ul>
 							</div>
 						</div>
@@ -31,20 +31,22 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 				<div class="col-lg-6 features_col">
 					<div class="features_content">
 						<div class="section_title_container">
-							<div class="section_title">Why trust Yaba-In?</div>
+							<div class="section_title">Pourquoi faire confiance à Yaba-In?</div>
 							<div class="section_text">
-								<p>Yaba-In is a Cameroonian engineering company whose growth engine is the development of expertise in software engineering.
-									The competence of our teams and owl-carouselr consultants on technologies according to international standards has earned us a first-rate level of partnership with companies that trust us by asking us to manage their projects for almost three years.
-									We are based in the city of Bangangté, West Cameroon.</p>
+								<p>Yaba-In est une entreprise camerounaise d'ingénierie basés dans la ville de Bangangté, dans l'ouest du Cameroun dont le moteur de croissance est le développement d'une expertise en génie logiciel.
+								La compétence de nos équipes et de nos consultants sur des technologies aux standards internationaux nous a valu un partenariat de premier ordre avec des entreprises qui nous font confiance en nous attribuant la gestion de leurs projets et la réalisations des solutions informatique venant palier à leurs besoins.</p>
 
-								<p>For many years, we have developed a diversified experience in the fields of management, audit and assistance in the organization, analysis, design and development of software solutions.</p>
+								<p>Depuis de nombreuses années, nous avons développé une expérience diversifiée dans les domaines de la gestion, de l'audit et de l'assistance dans l'organisation, l'analyse, la conception et le développement de solutions logicielles.</p>
+								<br />
 
-								<p>Our core values:
- 
-									Expertise / Experience combined with customer service;
-									The satisfaction of our customers;
-									The culture of service and innovation;
-									Advice / local support.</p>
+								<p>Nos valeurs fondamentales:<br />
+
+									<BLOCKQUOTE>
+										- Expertise / Expérience combinée avec le service à la clientèle;<br />
+										- La satisfaction de nos clients;<br />
+										- La culture du service et de l'innovation;<br />
+										- Conseil / accompagnement local.</p>
+									</BLOCKQUOTE>
 							</div>
 						</div>
 					</div>
@@ -69,22 +71,22 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 
 					<div class="faq">
 						<div class="section_title_container">
-							<div class="section_subtitle">take a look at our</div>
-							<div class="section_title">Activities</div>
+							<div class="section_subtitle">À propos de nos</div>
+							<div class="section_title">Activités</div>
 						</div>
 						
 						<!-- Accordions -->
 						<div class="elements_accordions">
 
 							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center active"><div>About services</div></div>
+								<div class="accordion d-flex flex-row align-items-center active"><div>Des services</div></div>
 								<div class="accordion_panel">
-									<p>We act as consultants, guide and managers of your software resources while guaranteeing the best quality for the implementation.</p>
+									<p>Nous intervenos en tant que consultants, soutraitant ou gestionnaires de vos ressources logicielles tout en garantissant la meilleure qualité pour leur mise en œuvre.</p>
 								</div>
 							</div>
 
 							<div class="accordion_container">
-								<div class="accordion d-flex flex-row align-items-center"><div>About innovation</div></div>
+								<div class="accordion d-flex flex-row align-items-center"><div>De l'innovation</div></div>
 								<div class="accordion_panel">
 									<p>We make it a priority to research, design and implement innovative, cost-effective projects because we believe that it is largely through innovation that the economic value of a region can be enhanced.</p>
 								</div>
@@ -184,7 +186,7 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 	<!-- Footer -->
 
 <?php
-include 'footer.php';
+include 'footer_fr.php';
 footer('<script src="js/about_custom.js"></script>
 <script src="plugins/greensock/TweenMax.min.js"></script>
 <script src="plugins/greensock/TimelineMax.min.js"></script>

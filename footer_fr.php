@@ -91,7 +91,7 @@ function footer($jScript){
 					<div class="col-md-4 order-md-1 order-2">
 						<div class="copyright_content d-flex flex-row align-items-center justify-content-start">
 							<div class="cr">
-&copy;<script>document.write(new Date().getFullYear());</script> Tous droits réservés | Par Yaba-In</div>
+&copy;<script>document.write(new Date().getFullYear());</script> Tous droits réservés | Yaba-In</div>
 						</div>
 						</div>
 					</div>

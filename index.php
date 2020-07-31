@@ -15,7 +15,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 					<div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
 					<div class="home_slider_content text-center">
 						<h1>A new Africa is coming</h1>
-						<div class="home_slider_text">Participate in the development of africa thanks to new technologies</div>
+						<div class="home_slider_text">Participate in the development of africa thanks to new technologies.</div>
 						<div class="link_button home_slider_button"><a href="about.php">read more</a></div>
 					</div>
 				</div>

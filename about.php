@@ -33,18 +33,21 @@ myheader("About", '<link rel="stylesheet" type="text/css" href="styles/about.css
 						<div class="section_title_container">
 							<div class="section_title">Why to trust Yaba-In?</div>
 							<div class="section_text">
-								<p>Yaba-In is a Cameroonian engineering company whose growth engine is the development of  software engineering expertise.
-									The competence of our teams consultants on technologies according to international standards has earned us a first-rate level of partnership with companies that trust.
-									We are based in the city of Bangangté, West Cameroon.</p>
+								<p>Yaba-In is a Cameroonian engineering company based in the city of Bangangté, in western Cameroon whose growth engine is the development of expertise in software engineering.
+								The competence of our teams and our consultants on technologies to international standards has earned us a first-rate partnership with companies that trust us by assigning us the management of their projects and the achievements of IT solutions meeting their needs.</p>
 
 								<p>We have been developing for several years diversified experiences in the fields of management, audit, assistance in the organization, analysis, design and development of software solutions.</p>
+								<br />
 
-								<p>Our core values:
+								<p>Our core values:<br />
  
-									Expertise / Experience combined with customer service;
-									The satisfaction of our customers;
-									The culture of service and innovation;
-									Advice / local support.</p>
+									<BLOCKQUOTE>
+										Expertise / Experience combined with customer service;<br />
+										The satisfaction of our customers;<br />
+										The culture of service and innovation;<br />
+										Advice / local support.
+									</BLOCKQUOTE>
+								</p>
 							</div>
 						</div>
 					</div>
