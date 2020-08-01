@@ -228,7 +228,7 @@ function myheader($title, $style1, $style2){
 							<div class="col">
 								<div class="menu_register_login_content d-flex flex-row align-items-center justify-content-end">
 									<div class="register"><a href="#" onclick="msg()">Register</a></div>
-									<div class="login"><a href="./yabaStore/index.php">Login</a></div>
+									<div class="login"><a href="404.php">Login</a></div>
 								</div>
 							</div>
 						</div>

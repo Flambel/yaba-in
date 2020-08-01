@@ -418,7 +418,7 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 					<div class="col-md-4 order-md-1 order-2">
 						<div class="copyright_content d-flex flex-row align-items-center justify-content-start">
 							<div class="cr">
-&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made by Yaba-In</div>
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Yaba-In</div>
 						</div>
 						</div>
 					</div>
