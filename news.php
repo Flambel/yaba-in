@@ -74,6 +74,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 						<div class="news_date d-flex flex-column align-items-center justify-content-center">
 							<div class="news_month">feb</div>
 							<div class="news_day">12</div>
+							<div class="news_year">2020</div>
 						</div>
 						<div class="news_content">
 							<div class="news_title">Recruitment notice</div>
@@ -101,7 +102,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 						<div class="news_content">
 							<div class="news_title">Delivery of certificates at the end of training</div>
 							<div class="news_text">
-								<p>The director, the deputy director of Yaba-In and the director of CCLT connexion give the various certificates for the end of general IT training to the various laureates.</p>
+								<p>The director, the deputy director of Yaba-In and the director of CCLT connexions gives various certificates to different laureates at the end of  the general IT training to the various laureates.</p>
 							</div>
 						</div>
 						<div class="news_button"><a href="404.php">read more</a></div>
@@ -115,6 +116,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 						<div class="news_date d-flex flex-column align-items-center justify-content-center">
 							<div class="news_month">nov</div>
 							<div class="news_day">02</div>
+							<div class="news_year">2019</div>
 						</div>
 						<div class="news_content">
 							<div class="news_title">Service at GDG Bangangte.</div>
