@@ -102,7 +102,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 						<div class="news_content">
 							<div class="news_title">Delivery of certificates at the end of training</div>
 							<div class="news_text">
-								<p>The director, the deputy director of Yaba-In and the director of CCLT connexions gives various certificates to different laureates at the end of  the general IT training to the various laureates.</p>
+								<p>The director, the deputy director of Yaba-In and the director of CCLT connexions gives various certificates to different laureates at the end of  the general IT training.</p>
 							</div>
 						</div>
 						<div class="news_button"><a href="404.php">read more</a></div>

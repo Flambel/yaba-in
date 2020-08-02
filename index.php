@@ -75,8 +75,6 @@ myheader("Home", '<link rel="stylesheet" type="text/css" href="styles/main_style
 	<!-- Services -->
 
 
-	<!-- Info -->
-
 	<div class="info">
 		<div class="container">
 			<div class="row">

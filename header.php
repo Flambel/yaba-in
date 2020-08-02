@@ -31,6 +31,9 @@ function myheader($title, $style1, $style2){
 <title>Yaba-In | <?php echo $title; ?></title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Invest project">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="./images/logo.png" />
@@ -41,6 +44,8 @@ function myheader($title, $style1, $style2){
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
 <link rel="stylesheet" type="text/css" href="styles/universal.css">
 <?php echo "$style1 $style2"; ?>
+<style>
+</style>
 </head>
 <body>
 

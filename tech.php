@@ -47,7 +47,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.73"><span>C++</span></div>
+					<div class="loader" data-perc="0.73"><span>C / C++</span></div>
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
@@ -79,7 +79,7 @@ myheader('Tech', '<link rel="stylesheet" type="text/css" href="styles/elements.c
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
-					<div class="loader" data-perc="0.90"><span>UML</span></div></div><br /><br />
+					<div class="loader" data-perc="0.90"><span>UML</span></div><br /><br />
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 loader_col">
 					<!-- Loader -->
