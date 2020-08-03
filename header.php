@@ -1,4 +1,8 @@
 <?php
+$language="";
+function translate($page){
+
+}
 function myheader($title, $style1, $style2){
 	$page1="hassubs";
 	$page2="hassubs";
@@ -43,6 +47,7 @@ function myheader($title, $style1, $style2){
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
 <link rel="stylesheet" type="text/css" href="styles/universal.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <?php echo "$style1 $style2"; ?>
 <style>
 </style>
@@ -67,11 +72,9 @@ function myheader($title, $style1, $style2){
 							<div class="top_bar_container d-flex flex-row align-items-center justify-content-start">
 								<div class="logo_container">
 									<div class="logo">
-										<a href="#">
-											<div class="logo_line_1">Yaba-<span>In</span></div>
-											<div class="logo_line_2">Already running.</div>
-											<div class="logo_img"><img src="images/logo.png" alt=""></div>
-										</a>
+										<div class="logo_line_1">Yaba-<span>In</span></div>
+										<div class="logo_line_2">Already running.</div>
+										<div class="logo_img"><img src="images/logo.png" alt=""></div>
 									</div>
 								</div>
 								<div class="top_bar_content ml-auto">
@@ -90,8 +93,15 @@ function myheader($title, $style1, $style2){
 										function msg() {
 										  alert("You cannot access. Please contact the administrator.");
 										}
+										function myFunction() {
+										  var x = document.getElementById("snackbar");
+										  x.className = "show";
+										  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 5000);
+										}
 										</script>
-										<div class="register"><a href="#" onclick="msg()">register</a></div>
+										<div class="register"><a href="#" onclick="myFunction()">register</a></div>
+
+										<div id="snackbar"><i class="material-icons" style="font-size:20px">warning</i> You cannot access. Please contact the administrator.</div>
 										<div class="login"><a href="404.php">login</a></div>
 									</div>
 								</div>

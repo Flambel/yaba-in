@@ -62,11 +62,9 @@ function myheader($title, $style1, $style2){
 							<div class="top_bar_container d-flex flex-row align-items-center justify-content-start">
 								<div class="logo_container">
 									<div class="logo">
-										<a href="#">
-											<div class="logo_line_1">Yaba-<span>In</span></div>
-											<div class="logo_line_2">Déjà en marche.</div>
-											<div class="logo_img"><img src="images/logo.png" alt=""></div>
-										</a>
+										<div class="logo_line_1">Yaba-<span>In</span></div>
+										<div class="logo_line_2">Déjà en marche.</div>
+										<div class="logo_img"><img src="images/logo.png" alt=""></div>
 									</div>
 								</div>
 								<div class="top_bar_content ml-auto">
@@ -83,7 +81,7 @@ function myheader($title, $style1, $style2){
 									<div class="register_login">
 										<script>
 										function msg() {
-										  alert("You cannot access. Please contact the administrator.");
+										  alert("Vous ne pouvez pas accéder. Veuillez contacter l'administrateur.");
 										}
 										</script>
 										<div class="register"><a href="#" onclick="msg()">S'enregistrer</a></div>
@@ -228,7 +226,7 @@ function myheader($title, $style1, $style2){
 							<div class="col">
 								<div class="menu_register_login_content d-flex flex-row align-items-center justify-content-end">
 									<div class="register"><a href="#" onclick="msg()">S'ENREGISTRER</a></div>
-									<div class="login"><a href="404.php">SE CONNECTER</a></div>
+									<div class="login"><a href="404_fr.php">SE CONNECTER</a></div>
 								</div>
 							</div>
 						</div>
