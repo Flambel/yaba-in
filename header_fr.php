@@ -40,6 +40,7 @@ function myheader($title, $style1, $style2){
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
 <link rel="stylesheet" type="text/css" href="styles/universal.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <?php echo "$style1 $style2"; ?>
 </head>
 <body>
@@ -83,8 +84,14 @@ function myheader($title, $style1, $style2){
 										function msg() {
 										  alert("Vous ne pouvez pas accéder. Veuillez contacter l'administrateur.");
 										}
+										function myFunction() {
+										  var x = document.getElementById("snackbar");
+										  x.className = "show";
+										  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 4000);
+										}
 										</script>
-										<div class="register"><a href="#" onclick="msg()">S'enregistrer</a></div>
+										<div class="register"><a href="#" onclick="myFunction()">S'enregistrer</a></div>
+										<div id="snackbar"><i class="material-icons" style="font-size:20px">warning</i> Vous ne pouvez pas accéder. Veuillez contacter l'administrateur.</div>
 										<div class="login"><a href="404_fr.php">Se connecter</a></div>
 									</div>
 								</div>
