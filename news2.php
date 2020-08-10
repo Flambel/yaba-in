@@ -41,7 +41,7 @@ myheader("News", '<link rel="stylesheet" type="text/css" href="styles/news.css">
 						<div class="news_content">
 							<div class="news_title">Establishment of a new executive office</div>
 							<div class="news_text">
-								<p>Friday, May 17, 2019, there was a meeting chaired by Cédric NGENDAP, deputy director of Yaba-In for the establishment of a new executive office.</p>
+								<p>Friday, May 17, 2019, there was a meeting chaired by Cédric NGUENDAP, deputy director of Yaba-In for the establishment of a new executive office.</p>
 							</div>
 						</div>
 						<div class="news_button"><a href="404.php">read more</a></div>

@@ -73,7 +73,7 @@ myheader("Services", '<link rel="stylesheet" type="text/css" href="styles/servic
 					<div class="service">
 						<div class="service_title">MOBILE APPLICATIONS</div>
 						<div class="service_text">
-							<p>Mobility is a very important factor in the digital world. As a result, we make applications usable on mobile devices for a more accessible experience.<br /><br /><br /></p>
+							<p>Mobility is an important factor in the digital world. As a result, we make applications usable on mobile devices for a more accessible experience.<br /><br /><br /></p>
 						</div>
 						<div class="service_link"><a href="404.php">Read More</a></div>
 					</div>

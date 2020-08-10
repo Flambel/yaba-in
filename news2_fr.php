@@ -41,7 +41,7 @@ myheader("Infos", '<link rel="stylesheet" type="text/css" href="styles/news.css"
 						<div class="news_content">
 							<div class="news_title">Mise en place d'un nouveau bureau exécutif</div>
 							<div class="news_text">
-								<p>Vendredi 17 mai 2019, s'est tenu une réunion présidée par Cédric NGENDAP, directeur adjoint de Yaba-In pour la mise en place d'un nouveau bureau exécutif.</p>
+								<p>Vendredi 17 mai 2019, s'est tenu une réunion présidée par Cédric NGUENDAP, directeur adjoint de Yaba-In pour la mise en place d'un nouveau bureau exécutif.</p>
 							</div>
 						</div>
 						<div class="news_button"><a href="404_fr.php">Lire plus</a></div>
