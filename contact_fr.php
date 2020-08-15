@@ -60,13 +60,13 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 						<form action="#" class="contact_form">
 							<div class="row">
 								<div class="col-md-6">
-									<input type="text" class="input_item" placeholder="Your Name" required="required">
+									<input type="text" class="input_item" placeholder="Nom" required="required">
 								</div>
 								<div class="col-md-6">
-									<input type="email" class="input_item" placeholder="Your E-mail" required="required">
+									<input type="email" class="input_item" placeholder="E-mail" required="required">
 								</div>
 								<div class="col-md-6">
-									<input type="text" class="input_item" placeholder="Your Phone">
+									<input type="text" class="input_item" placeholder="Téléphone">
 								</div>
 								<div class="col-md-6">
 									<select class="dropdown_item input_item">
