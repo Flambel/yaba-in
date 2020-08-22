@@ -8,7 +8,7 @@ function footer($jScript){
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3"><?php
-				include "./new/suggestions.php";
+				include "suggestions_fr.php";
 				?>
 				</div>
 			</div>

@@ -1,9 +1,39 @@
 <?php
 $language="";
-function translate($page){
-
+function translateFR(){
+	if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') 
+	  $url = "https"; 
+	else
+	  $url = "http"; 
+	  
+	// Ajoutez // à l'URL.
+	$url .= "://"; 
+	  
+	// Ajoutez l'hôte (nom de domaine, ip) à l'URL.
+	$url .= $_SERVER['HTTP_HOST']; 
+	$url2 = $url;
+	  
+	// Ajouter l'emplacement de la ressource demandée à l'URL
+	$url .= $_SERVER['REQUEST_URI']; 
+		
+	// Afficher l'URL
+	$extens = substr(substr(strrchr($url, '/'),1),0,-4);
+	if(empty($extens)){
+		$extens = 'index';
+	}
+	if (strrchr($extens, '_fr')) {
+		echo '';
+	}
+	else {
+		$extens .='_fr.php';
+		$url2 = '/'.$extens; 
+	return $extens;
+	}
 }
+
 function myheader($title, $style1, $style2){
+
+	$pageFR = translateFR();
 	$page1="hassubs";
 	$page2="hassubs";
 	$page3="hassubs";
@@ -87,7 +117,7 @@ function myheader($title, $style1, $style2){
 											<li><a add target="_blank" href="https://www.twitter.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 										</ul>
 									</div>
-									<a href="index_fr.php"><font color="white"> [<img src="images/fr.jpg">] |</font></a>
+									<a href="<?php echo $pageFR;?>"><font color="white"> [<img src="images/fr.jpg">] |</font></a>
 									<div class="register_login">
 										<script>
 										function msg() {
