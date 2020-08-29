@@ -12,7 +12,7 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 							<div class="home_title">Contact</div>
 							<div class="home_breadcrumbs">
 								<ul>
-									<li><a href="index.html">Home</a></li>
+									<li><a href="index.html">Accueil</a></li>
 									<li>Contact</li>
 								</ul>
 							</div>
@@ -41,12 +41,12 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 					<div class="info">
 						<div class="section_title_container">
 							<div class="section_subtitle"></div>
-							<div class="section_title">Contact info</div>
+							<div class="section_title">Info contact</div>
 						</div>
-						<div class="info_title">Head Office</div>
+						<div class="info_title">Siège social</div>
 						<ul>
-							<li>Address: Bangangte, west Cameroon </li>
-							<li>Phone: +237 691 224 472</li>
+							<li>Address: Bangangté, Ouest Cameroun </li>
+							<li>Tél: +237 691 224 472</li>
 							<li>Email: contact@yaba-in.com</li>
 						</ul>
 					</div>
@@ -54,7 +54,7 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 				<div class="col-lg-8 contact_form_col">
 					<div class="section_title_container">
 						<div class="section_subtitle"></div>
-						<div class="section_title">Contact us</div>
+						<div class="section_title">Contactez nous</div>
 					</div>
 					<div class="contact_form_container">
 						<form action="#" class="contact_form">
@@ -70,16 +70,16 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 								</div>
 								<div class="col-md-6">
 									<select class="dropdown_item input_item">
-										<option>Business request</option>
-										<option>Custumer request</option>
-										<option>Other request</option>
+										<option>Service entreprise</option>
+										<option>Service individuel</option>
+										<option>Autre service</option>
 									</select>
 								</div>
 								<div class="col-md-12">
 									<textarea id="contact_message" class="input_item contact_message" name="message" placeholder=" Your Message" required="required" data-error="Please, write us a message."></textarea>
 								</div>
 								<div class="col-md-12">
-									<button id="contact_btn" type="submit" class="contact_button trans_200" value="Submit">submit</button>
+									<button id="contact_btn" type="submit" class="contact_button trans_200" value="Submit">Envoyer</button>
 								</div>
 							</div>
 						</form>
@@ -104,14 +104,14 @@ myheader("Contact", '<link rel="stylesheet" type="text/css" href="styles/contact
 				<div class="logo_container contact_logo">
 					<div class="logo">
 						<div class="logo_line_1">Yaba-<span>in</span></div>
-						<div class="logo_line_2">Already runing</div>
+						<div class="logo_line_2">Déjà en marche</div>
 						<div class="logo_img"><img src="images/logo_2.png" alt=""></div>
 					</div>
 				</div>
-				<div class="map_contact_title">Head Office</div>
+				<div class="map_contact_title">Siège social</div>
 				<ul>
-					<li>Address: Bangangte, west Cameroon </li>
-					<li>Phone: +237 691 224 472</li>
+					<li>Address: Bangangté, Ouest Cameroon </li>
+					<li>Tél: +237 691 224 472</li>
 					<li>Email: contact@yaba-in.com</li>
 				</ul>
 			</div>
