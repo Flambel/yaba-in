@@ -185,7 +185,6 @@ myheader("A propos", '<link rel="stylesheet" type="text/css" href="styles/about.
 
 	<!-- Footer -->
 
-
 <?php
 include 'footer_fr.php';
 footer('<script src="js/about_custom.js"></script>
