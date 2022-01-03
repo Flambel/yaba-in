@@ -1,0 +1,54 @@
+/*
+* Theme Name: Rudermann Countdown
+* Theme URI: http://themes.tvda.eu
+* Description: Countdown
+* Author: Ilya Sidelnikov and TVDA
+* Author URI: http://themes.tvda.eu
+* Version: 1.0
+*/
+
+/* --------- Mobile Phones --------- */
+@media (max-width: 767px) {
+
+	h1 { font-size: 48px; }
+	h2 { font-size: 44px; }
+	h3 { font-size: 38px; padding-top: 0.4em; }
+	h4 { font-size: 26px; padding-top: 0.4em; }
+	h5 { font-size: 22px; padding-top: 0.4em; }
+	h6 { font-size: 16px; }
+	
+	p:last-child { margin-bottom: 1.6em; }
+	p.large { font-size: 14px; }
+	p.lead { font-size: 18px; }
+	
+	header { min-height: 90px; }
+	header #logo { margin-top: 15px; }
+	
+	footer { margin-top: 40px; margin-bottom: 15px; }
+	footer .span12 { padding-top: 15px; }
+	
+	#title { margin-top: 34px; margin-bottom: 33px; }
+	#title .span12 { padding-bottom: 12px; }
+	#title .date { margin: -20px 0 5px 0; }
+		
+	.service-desc { margin-bottom: 50px; }
+
+	#twitter-feed { margin-bottom: 28px; margin-top: 20px; }
+	
+	.contdown-intro { margin-top: 37px; margin-bottom: 20px; }
+	.contdown-intro h1 {font-size: 36px; }
+	.countDownClock .container { width: 480px; height: 90px; margin: 31px auto 30px; box-sizing: border-box; }
+	.countDownClock .flip { margin: 2px; width: 40px; height: 56px; font-size: 40px; line-height: 56px; border-radius: 4px; }
+	.countDownClock .sepr{ margin-right: 10px; }
+	.countDownClock .hourPlay:after, .countDownClock .minutePlay:after, .countDownClock .secondPlay:after, .countDownClock .day-container:after { font-size: 12px; }
+
+}
+
+/* --------- iPhone Vertical  --------- */
+@media (max-width: 479px) {
+
+	h1 { font-size: 38px; }
+	h2 { font-size: 38px; }
+	.countdown { display: block; }
+	
+}
